@@ -30,7 +30,7 @@ a {
     position: fixed;
     color: #ff0000;
     letter-spacing: -40px;
-    z-index: 0;
+    z-index: -1;
 }
 
 #oba span:first-of-type {
@@ -66,5 +66,24 @@ header a {
 }
 
 #itemList {
+    padding-top: 1em;
     z-index: 1;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.book {
+    display: flex;
+    margin-bottom: 1em;
+}
+
+.book img {
+    margin-right: 0.5em;
+}
+.book a {
+    margin-top: 1em;
+    padding: 0.25em;
+}
+
+.book a:active {
+    box-shadow: inset #000 0px 2px 13px;
 }
