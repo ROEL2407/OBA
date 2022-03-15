@@ -2,7 +2,7 @@
 const main = document.querySelector("main");
 const cors = "https://cors-anywhere.herokuapp.com/";
 const endpoint = "https://zoeken.oba.nl/api/v1/search/?q=";
-const query = "Kookboeken"; /* Kookboeken&dim=Type(book)&dim=Topic(Kookboeken) */
+const query = "Kookboeken+NOT+lom.lifecycle.contribute.publisher%3Dwikipedia"; /* Kookboeken&dim=Type(book)&dim=Topic(Kookboeken) */
 const key = "fff5cd7a65bd87deefd8f70bfb447d42";
 const secret = "4289fec4e962a33118340c888699438d";
 const detail = "Default";
@@ -23,9 +23,11 @@ function getData() {
             response.results.forEach(item => {
                 itemArray.push({
                     id: item.id,
-                    title: item.titles,
+                    title: item.titles[1],
                     author: item.authors,
-                    img: item.coverimages[1]
+                    img: item.coverimages[1],
+                    desc: item.description[0],
+                    link: item.detailLink
                 });
             })
             renderData();
@@ -45,9 +47,8 @@ function makeItems(data) {
     data.forEach(item => {
         const temp = document.createElement('article');
         temp.setAttribute("class", "book");
-        temp.setAttribute("data-route", item.id);
         temp.id = item.id;
-        const output = '<button class="close_popup"><div></div><div></div></button><div><img src="' + item.img + '" alt=""></div><h2>' + item.title + '</h2><p>' + item.author + '</p>' ;
+        const output = '<img src="' + item.img + '" alt=""><div><h4>' + item.title + '</h4><p>' + item.author + '</p><p>' + item.desc +'</p><a href="' + item.link + '" target="_blank">Link</a></div>' ;
         temp.innerHTML = output;
         const itemWrapper = document.getElementById("itemList");
         itemWrapper.appendChild(temp);
