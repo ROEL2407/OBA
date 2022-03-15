@@ -27,7 +27,7 @@ a {
 
 #oba {
     font-size: 60vw;
-    position: relative;
+    position: fixed;
     color: #ff0000;
     letter-spacing: -40px;
     z-index: 0;
@@ -41,16 +41,12 @@ a {
     writing-mode: tb;
     position: absolute;
     left: 50vw;
-    top: 30vw;
+    top: 28vw;
 }
 
 header {
     padding: 1em 0em 1em 1em;
     box-shadow: #000 0px 5px 50px;
-}
-
-main  {
-
 }
 
 footer {
