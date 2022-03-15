@@ -1,1 +1,74 @@
+/* --- Styling Reset --- */
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    z-index: 0;
+}
 
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+* {
+    font-family: Arial,sans-serif;
+}
+
+/* colorpallete */
+/* black (#000) */
+/* white (#fff) */
+/* red (#ff0000) */
+/* grey (#969696) */
+
+/* --- End Styling Reset --- */
+
+#oba {
+    font-size: 60vw;
+    position: relative;
+    color: #ff0000;
+    letter-spacing: -40px;
+    z-index: 0;
+}
+
+#oba span:first-of-type {
+    font-size: 65vw;
+}
+
+#oba span:last-of-type {
+    writing-mode: tb;
+    position: absolute;
+    left: 50vw;
+    top: 30vw;
+}
+
+header {
+    padding: 1em 0em 1em 1em;
+    box-shadow: #000 0px 5px 50px;
+}
+
+main  {
+
+}
+
+footer {
+    padding: 1em 0em 0em 1em;
+    box-shadow: #000 0px 5px 50px;
+}
+
+header h1 span:last-of-type {
+    writing-mode: tb;
+    position: absolute;
+    left: 1.5em;
+    top: 0.89em;
+}
+
+header a {
+    color: #ff0000;
+}
+
+#itemList {
+    z-index: 1;
+}
