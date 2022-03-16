@@ -14,10 +14,9 @@ function search() {
       );
     });
   
-    //if search is empty show error
-    // if (search.length == 0) {
-    //   errorSearch();
-    // }
+    if (search.length == 0) {
+      display.innerHTML = '<p id="searchError">geen resultaten gevonden voor <span>' + input.value + '</span></p>';
+    }
   
     console.log(search);
   
@@ -32,11 +31,6 @@ function search() {
   function sortTitle() {
     const display = document.getElementById("items");
     display.innerHTML = "";
-    // let newData = globalData.sort(function (a, b) {
-    //   console.log(a);
-    //   console.log(b);
-    //   return a.titles[0] - b.titles[0];
-    // });
   
     let newData = globalData.sort((a, b) =>
       a.titles[0] > b.titles[0] ? 1 : b.titles[0] > a.titles[0] ? -1 : 0
