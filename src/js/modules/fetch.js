@@ -1,33 +1,32 @@
-/*** Fetching data -> refactor into module later ***/
+import {makeItems} from './create.js';
+
 const main = document.querySelector("main");
 const cors = "https://cors-anywhere.herokuapp.com/";
 const endpoint = "https://zoeken.oba.nl/api/v1/search/?q=";
-const query = "tolkien";
-const key = "1e19898c87464e239192c8bfe422f280";
-const secret = "4289fec4e962a33118340c888699438d";
+const query = "Kookboeken+NOT+lom.lifecycle.contribute.publisher%3Dwikipedia"; /* Kookboeken&dim=Type(book)&dim=Topic(Kookboeken) */
+const key = "fff5cd7a65bd87deefd8f70bfb447d42";
 const detail = "Default";
 const url = `${cors}${endpoint}${query}&authorization=${key}&detaillevel=${detail}&output=json`;
 
-const config = {
-    Authorization: `Bearer ${secret}`,
-};
+const display = document.getElementById('itemList');
+display.textContent = "Loading...";
 
-itemArray =[];
+const itemArray = [];
 export function getData() {
-    fetch(url, config)
+    fetch(url)
         .then((response) => {
-            console.log(response);
             return response.json();
         })
         .then(response => {
-            response.artObjects.forEach(art => {
+            console.log(response);
+            response.results.forEach(item => {
                 itemArray.push({
-                    id: art.id,
-                    title: art.title,
-                    maker: art.principalOrFirstMaker,
-                    img: art.webImage.url,
-                    place: art.productionPlaces,
-                    link: art.links.web
+                    id: item.id,
+                    title: item.titles[1],
+                    author: item.authors,
+                    img: item.coverimages[1],
+                    desc: item.description[0],
+                    link: item.detailLink
                 });
             })
             renderData();
@@ -38,6 +37,8 @@ export function getData() {
 }
 
 // render data
-function renderData(data) {
-    console.dir(results);
+function renderData() {
+    display.textContent = "";
+    display.classList.remove("loading");
+    makeItems(itemArray);
 }
