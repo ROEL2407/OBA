@@ -14,7 +14,7 @@ const url = `${cors}${endpoint}${query}&authorization=${key}&detaillevel=${detai
 export const display = document.getElementById('itemList');
 display.textContent = "Loading...";
 
-const itemArray = [];
+export const itemArray = [];
 export function getData() {
     fetch(url)
         .then((response) => {

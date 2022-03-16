@@ -1,14 +1,13 @@
 import { makeItems } from './create.js';
-import {display} from './fetch.js';
+import {display, itemArray} from './fetch.js';
 
-document.querySelector("form").addEventListener("submit", searchBar);
 
 function search() {
     let input = document.getElementById("searchInput");
     display.innerHTML = "";
   
     //search on input
-    let search = globalData.filter(function (d) {
+    let search = itemArray.filter(function (d) {
       return (
         d.title[0].toLowerCase().includes(input.value.toLowerCase()) ||
         d.author[0].toLowerCase().includes(input.value.toLowerCase())
@@ -25,7 +24,7 @@ function search() {
     makeItems(search);
   }
   
-  function searchBar(event) {
+  export function searchBar(event) {
     event.preventDefault();
     search();
   }
