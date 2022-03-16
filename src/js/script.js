@@ -12,6 +12,9 @@ const config = {
     Authorization: `Bearer ${secret}`,
 };
 
+const display = document.getElementById('itemList');
+display.textContent = "Loading...";
+
 const itemArray = [];
 function getData() {
     fetch(url, config)
@@ -39,6 +42,8 @@ function getData() {
 
 // render data
 function renderData() {
+    display.textContent = "";
+    display.classList.remove("loading");
     makeItems(itemArray);
 }
 
