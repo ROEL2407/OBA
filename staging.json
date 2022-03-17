@@ -1,0 +1,922 @@
+{
+    "meta": {
+        "time-taken": "469",
+        "result-count": "4895",
+        "page-count": "20",
+        "rctx": "AQ2LQQ6CMBAAtyIhxCcYE7x5AvXuF@TinUBZ6aYrxW2L0TfyCl8ik8xlklGQbCCD03swC5blaD9R7NlO3zj58ExyyL3EGhJ4TQ47GvriersX7J4l0wP1RzOW2g1BqI0ByzG2TN6gXN5kaVyOBlS6pVpQ$xFlbHpMz8edrg0FQ73hxbB5NOxxBfP6l6jDvAbIXNsAwL4S50LF9IrUVUvLo0eBdGCl@g==",
+        "current-page": "1",
+        "current-sort-method": "",
+        "sort-methods": []
+    },
+    "results": [
+        {
+            "id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/373119",
+            "frabl": {
+                "key1": "",
+                "key2": "",
+                "cnt": "",
+                "value": ""
+            },
+            "detailLink": "https://edepot.wur.nl/15359",
+            "titles": [
+                "Voeding & kanker Wat leeft"
+            ],
+            "formats": [],
+            "authors": [
+                "Kampman, E."
+            ],
+            "authorsDetailed": [
+                {
+                    "full": "Kampman, E."
+                }
+            ],
+            "publisher": [
+                "Wageningen Universiteit, 2008"
+            ],
+            "languages": [
+                "nl"
+            ],
+            "summaries": [
+                "De rede 'Voeding en Kanker. wat leeft' is gericht op wat leeft binnen het onderzoek naar voeding en kanker, onder kankerpatienten en onder de bevolking. Hierbij zullen de uitdagingen voor de toekomst worden besproken met nieuwe mogelijkheden voor onderzoek en onderwijs binnen Wageningen Universiteit"
+            ]
+        },
+        {
+            "id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/403401",
+            "frabl": {
+                "key1": "",
+                "key2": "",
+                "cnt": "",
+                "value": ""
+            },
+            "detailLink": "https://edepot.wur.nl/161903",
+            "titles": [
+                "Resultaten en ambities : proef de vooruitgang!"
+            ],
+            "formats": [],
+            "authors": [
+                "Gameren, Y., van",
+                "Menkveld-Beukers, M.",
+                "Roos, N.M., de"
+            ],
+            "authorsDetailed": [
+                {
+                    "full": "Gameren, Y., van"
+                },
+                {
+                    "full": "Menkveld-Beukers, M."
+                },
+                {
+                    "full": "Roos, N.M., de"
+                }
+            ],
+            "publisher": [
+                "Wageningen UR etc., 2010"
+            ],
+            "languages": [
+                "nl"
+            ],
+            "summaries": [
+                "In 2007 namen Ziekenhuis Gelderse Vallei in Ede en de afdeling Humane Voeding van Wageningen University het initiatief tot samenwerking en vormden zij de Alliantie Voeding Gelderse Vallei. De Alliantie Voeding koppelt preventie aan zorg. Voor jong tot oud is voorlichting over gezonde voeding van belang. Effectieve preventie én de integratie van preventie in de zorg levert gezondheidswinst en verhoging van kwaliteit van leven op individueel en populatie niveau. De Alliantie Voeding heeft hiertoe drie programma's opgesteld."
+            ]
+        },
+        {
+            "id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/376715",
+            "frabl": {
+                "key1": "",
+                "key2": "",
+                "cnt": "",
+                "value": ""
+            },
+            "detailLink": "https://edepot.wur.nl/1925",
+            "titles": [
+                "Voeding en bloeddruk"
+            ],
+            "formats": [],
+            "authors": [
+                "Geleijnse, Marianne"
+            ],
+            "authorsDetailed": [
+                {
+                    "full": "Geleijnse, Marianne"
+                }
+            ],
+            "publisher": [
+                "WUR_staff repository, 2008"
+            ],
+            "languages": [
+                "x-none"
+            ],
+            "summaries": [
+                "Voeding en leefstijl nemen een centrale plaats in bij de preventie en behandeling van hypertensie. Een powerpointpresentatie met daarnaast aanvullende dia's over zuivel en bloeddruk"
+            ]
+        },
+        {
+            "id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/523666",
+            "frabl": {
+                "key1": "",
+                "key2": "",
+                "cnt": "",
+                "value": ""
+            },
+            "detailLink": "https://edepot.wur.nl/418238",
+            "titles": [
+                "Risicobeoordeling rond het bord : balanceren tussen onafhankelijkheid en relevantie"
+            ],
+            "formats": [],
+            "authors": [
+                "Schouten, E.G."
+            ],
+            "authorsDetailed": [
+                {
+                    "full": "Schouten, E.G."
+                }
+            ],
+            "publisher": [
+                "Wageningen UR, 2012"
+            ],
+            "languages": [
+                "nl"
+            ],
+            "summaries": [
+                "zonder beschrijving"
+            ]
+        },
+        {
+            "id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/422733",
+            "frabl": {
+                "key1": "",
+                "key2": "",
+                "cnt": "",
+                "value": ""
+            },
+            "detailLink": "https://edepot.wur.nl/200521",
+            "titles": [
+                "Naar een integrale benadering van duurzame landbouw en gezonde voeding : visie van de Wetenschappelijke Raad voor Integrale Duurzame Landbouw en Voeding"
+            ],
+            "formats": [],
+            "authors": [
+                "Weijden, W.J., van der",
+                "Huber, M.A.S.",
+                "Jetten, T.H.",
+                "Blom, P.",
+                "Egmond, N.D., van",
+                "Lauwers, L.",
+                "Ommen, B., van",
+                "Vilsteren, A., van",
+                "Wijffels, H.H.F.",
+                "Zijpp, A.J., van der",
+                "Lammerts Van Bueren, E."
+            ],
+            "authorsDetailed": [
+                {
+                    "full": "Weijden, W.J., van der"
+                },
+                {
+                    "full": "Huber, M.A.S."
+                },
+                {
+                    "full": "Jetten, T.H."
+                },
+                {
+                    "full": "Blom, P."
+                },
+                {
+                    "full": "Egmond, N.D., van"
+                },
+                {
+                    "full": "Lauwers, L."
+                },
+                {
+                    "full": "Ommen, B., van"
+                },
+                {
+                    "full": "Vilsteren, A., van"
+                },
+                {
+                    "full": "Wijffels, H.H.F."
+                },
+                {
+                    "full": "Zijpp, A.J., van der"
+                },
+                {
+                    "full": "Lammerts Van Bueren, E."
+                }
+            ],
+            "publisher": [
+                "Wetenschappelijke Raad voor Integrale Duurzame Landbouw en Voeding, 2012"
+            ],
+            "languages": [
+                "nl"
+            ],
+            "summaries": [
+                "Duurzame landbouw en gezonde voeding staan hoog op de maatschappelijke agenda. Aan beide uitdagingen wordt gewerkt en daarbij zijn diverse successen geboekt. Maar er zijn nog grote veranderingen nodig en sommige problemen zijn juist toegenomen. Hoewel landbouw en voeding nauw samenhangen worden beide vraagstukken nog vaak gescheiden aangepakt. De problemen met landbouw en voeding hebben diverse oorzaken. Volgens de Raad voor Integrale Duurzame Landbouw en Voeding is er één belangrijke maar onderbelichte oorzaak: dat voedselproductie goeddeels is losgemaakt uit zijn ecologische en sociale context. Daardoor zijn vitale relaties en interacties verloren gegaan."
+            ]
+        },
+        {
+            "id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/542564",
+            "frabl": {
+                "key1": "",
+                "key2": "",
+                "cnt": "",
+                "value": ""
+            },
+            "detailLink": "https://edepot.wur.nl/459567",
+            "titles": [
+                "‘Gezonde voeding voorkomt een derde van de kankergevallen’: voeding en gezondheid"
+            ],
+            "formats": [],
+            "authors": [
+                "Kampman, E."
+            ],
+            "authorsDetailed": [
+                {
+                    "full": "Kampman, E."
+                }
+            ],
+            "publisher": [
+                "WUR_staff repository, 2018"
+            ],
+            "languages": [
+                "x-none"
+            ],
+            "summaries": [
+                "In mei presenteerde het Wereld Kanker Onderzoek Fonds de nieuwe richtlijnen voor de preventie van kanker. Het is best lastig om de adviezen voor een gezondere voeding op te volgen. ‘Je moet niet alle verantwoordelijkheid bij de consument leggen’, vindt Ellen Kampman, hoogleraar Voeding en Ziekte."
+            ]
+        },
+        {
+            "id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/411856",
+            "frabl": {
+                "key1": "",
+                "key2": "",
+                "cnt": "",
+                "value": ""
+            },
+            "detailLink": "https://edepot.wur.nl/184360",
+            "titles": [
+                "Maatwerk in voeding"
+            ],
+            "formats": [],
+            "authors": [
+                "Goudoever, H., van",
+                "Groot, C.P.G.M., de",
+                "Schaafsma, G."
+            ],
+            "authorsDetailed": [
+                {
+                    "full": "Goudoever, H., van"
+                },
+                {
+                    "full": "Groot, C.P.G.M., de"
+                },
+                {
+                    "full": "Schaafsma, G."
+                }
+            ],
+            "publisher": [
+                "BWM, 2011"
+            ],
+            "languages": [
+                "nl"
+            ],
+            "summaries": [
+                "zonder beschrijving"
+            ]
+        },
+        {
+            "id": "|universal/sru_edurep|KlasCement:oai:s01.klascement.net:138581",
+            "frabl": {
+                "key1": "",
+                "key2": "",
+                "cnt": "",
+                "value": ""
+            },
+            "detailLink": "https://www.klascement.net/138581/",
+            "titles": [
+                "Gezonde en duurzame voeding : Quiz"
+            ],
+            "formats": [],
+            "authors": [
+                "Rikolto vzw"
+            ],
+            "authorsDetailed": [
+                {
+                    "full": "Rikolto vzw"
+                }
+            ],
+            "publisher": [
+                "KlasCement, 2021-10-18"
+            ],
+            "languages": [
+                "nl"
+            ],
+            "summaries": [
+                "Een interactieve quiz met vijftien vragen over gezonde en duurzame voeding. Laat je leerlingen meer te weten komen over verschillende aspecten van voeding zoals labels, seizoensgroenten, vleesconsumptie, visvangst, eerlijke handel en nog veel meer. ",
+                "An interactive quiz with fifteen questions about healthy and sustainable food. Let your students learn about different aspects of nutrition such as labels, seasonal vegetables, meat consumption, fishing, fair trade and much more."
+            ]
+        },
+        {
+            "id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/523678",
+            "frabl": {
+                "key1": "",
+                "key2": "",
+                "cnt": "",
+                "value": ""
+            },
+            "detailLink": "https://edepot.wur.nl/418469",
+            "titles": [
+                "Kennissynthese voeding als behandeling van chronische ziekten"
+            ],
+            "formats": [],
+            "authors": [
+                "Witkamp, Renger",
+                "Navis, Gerjan",
+                "Boer, Jolanda",
+                "Plat, Jogchum",
+                "Assendelft, Pim",
+                "Vries, Jeanne, de",
+                "Dekker, Louise",
+                "Seves, Marije",
+                "Pot, Gerda"
+            ],
+            "authorsDetailed": [
+                {
+                    "full": "Witkamp, Renger"
+                },
+                {
+                    "full": "Navis, Gerjan"
+                },
+                {
+                    "full": "Boer, Jolanda"
+                },
+                {
+                    "full": "Plat, Jogchum"
+                },
+                {
+                    "full": "Assendelft, Pim"
+                },
+                {
+                    "full": "Vries, Jeanne, de"
+                },
+                {
+                    "full": "Dekker, Louise"
+                },
+                {
+                    "full": "Seves, Marije"
+                },
+                {
+                    "full": "Pot, Gerda"
+                }
+            ],
+            "publisher": [
+                "Wageningen Universiteit, 2017"
+            ],
+            "languages": [
+                "nl"
+            ],
+            "summaries": [
+                "Deze kennissynthese richt zicht op voeding als therapeutische optie, dat wil zeggen: het specifiek inzetten van voedingsmaatregelen teneinde het beloop van chronische ziekten gunstig te beïnvloeden. Het begrip voeding wordt in dit verband gedefinieerd als ‘voedingsmiddelen zoals ook beschreven in de Richtlijnen Goede Voeding’. Dit betekent dat de medische voeding (dieetvoeding voor medisch gebruik) hier niet is meegenomen. De synthese is uitgevoerd in opdracht van ZonMW, door een team van deskundigen van Wageningen Universiteit en Research (WUR), het Universitair Medisch Centrum Groningen (UMCG), het Rijksinstituut voor Volksgezondheid en Milieu (RIVM) en het RadboudUMC. Tijdens de uitvoering zijn vertegenwoordigers van verschillende universiteiten en medische centra, voedingskundigen, artsen, diëtisten en andere zorgprofessionals, patiëntenverenigingen, gezondheidsfondsen en industrie geconsulteerd. Daarnaast zijn bestaande richtlijnen en voedingsadviezen in kaart gebracht en is gekeken naar wetenschapsagenda’s."
+            ]
+        },
+        {
+            "id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/507917",
+            "frabl": {
+                "key1": "",
+                "key2": "",
+                "cnt": "",
+                "value": ""
+            },
+            "detailLink": "https://edepot.wur.nl/392053",
+            "titles": [
+                "Creatine supplementation during knee immobilization attenuates changes in muscle transcriptome"
+            ],
+            "formats": [],
+            "authors": [
+                "Hangelbroek, R.W.J.",
+                "Backx, E.M.P.",
+                "Kersten, A.H.",
+                "Duynhoven, J.P.M., van",
+                "Verdijk, L.B.",
+                "Loon, L.J.C., van",
+                "Groot, C.P.G.M., de",
+                "Boekschoten, M.V."
+            ],
+            "authorsDetailed": [
+                {
+                    "full": "Hangelbroek, R.W.J."
+                },
+                {
+                    "full": "Backx, E.M.P."
+                },
+                {
+                    "full": "Kersten, A.H."
+                },
+                {
+                    "full": "Duynhoven, J.P.M., van"
+                },
+                {
+                    "full": "Verdijk, L.B."
+                },
+                {
+                    "full": "Loon, L.J.C., van"
+                },
+                {
+                    "full": "Groot, C.P.G.M., de"
+                },
+                {
+                    "full": "Boekschoten, M.V."
+                }
+            ],
+            "publisher": [
+                "Wageningen Academic Publishers, 2016"
+            ],
+            "languages": [
+                "en"
+            ],
+            "summaries": [
+                "zonder beschrijving"
+            ]
+        },
+        {
+            "id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/411909",
+            "frabl": {
+                "key1": "",
+                "key2": "",
+                "cnt": "",
+                "value": ""
+            },
+            "detailLink": "https://edepot.wur.nl/184448",
+            "titles": [
+                "Wordt arteriële stijfheid beïnvloed door homocysteine? Een cross-sectionele analyse bij baseline"
+            ],
+            "formats": [],
+            "authors": [
+                "Dijk, S.C., van",
+                "Velde, N., van der",
+                "Enneman, A.W.",
+                "Swart, K.",
+                "Schoor, N.M., van",
+                "Dhonukshe-Rutten, R.A.M.",
+                "Groot, C.P.G.M., de",
+                "Geleijnse, J.M.",
+                "Feskens, E.J.M.",
+                "Lips, P.",
+                "Smulders, Y.",
+                "Blom, H.",
+                "Cammen, T.J.M., van der",
+                "Meiracker, A.H., van den",
+                "Mattace-Raso, F.U.S."
+            ],
+            "authorsDetailed": [
+                {
+                    "full": "Dijk, S.C., van"
+                },
+                {
+                    "full": "Velde, N., van der"
+                },
+                {
+                    "full": "Enneman, A.W."
+                },
+                {
+                    "full": "Swart, K."
+                },
+                {
+                    "full": "Schoor, N.M., van"
+                },
+                {
+                    "full": "Dhonukshe-Rutten, R.A.M."
+                },
+                {
+                    "full": "Groot, C.P.G.M., de"
+                },
+                {
+                    "full": "Geleijnse, J.M."
+                },
+                {
+                    "full": "Feskens, E.J.M."
+                },
+                {
+                    "full": "Lips, P."
+                },
+                {
+                    "full": "Smulders, Y."
+                },
+                {
+                    "full": "Blom, H."
+                },
+                {
+                    "full": "Cammen, T.J.M., van der"
+                },
+                {
+                    "full": "Meiracker, A.H., van den"
+                },
+                {
+                    "full": "Mattace-Raso, F.U.S."
+                }
+            ],
+            "publisher": [
+                "WUR_staff repository, 2011"
+            ],
+            "languages": [
+                "nl"
+            ],
+            "summaries": [
+                "zonder beschrijving"
+            ]
+        },
+        {
+            "id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/362978",
+            "frabl": {
+                "key1": "",
+                "key2": "",
+                "cnt": "",
+                "value": ""
+            },
+            "detailLink": "https://edepot.wur.nl/24578",
+            "titles": [
+                "The efficacy of omega-3 fatty acids on cognitive performance and mental well-being in elderly people: a double-blind placebo-controlled trial"
+            ],
+            "formats": [],
+            "authors": [
+                "Rest, O., van de",
+                "Geleijnse, J.M.",
+                "Kok, F.J.",
+                "Staveren, W.A., van",
+                "Beekman, A.T.F.",
+                "Hoefnagels, W.H.L.",
+                "Groot, C.P.G.M., de"
+            ],
+            "authorsDetailed": [
+                {
+                    "full": "Rest, O., van de"
+                },
+                {
+                    "full": "Geleijnse, J.M."
+                },
+                {
+                    "full": "Kok, F.J."
+                },
+                {
+                    "full": "Staveren, W.A., van"
+                },
+                {
+                    "full": "Beekman, A.T.F."
+                },
+                {
+                    "full": "Hoefnagels, W.H.L."
+                },
+                {
+                    "full": "Groot, C.P.G.M., de"
+                }
+            ],
+            "publisher": [
+                "WUR_staff repository, 2007"
+            ],
+            "languages": [
+                "en"
+            ],
+            "summaries": [
+                "zonder beschrijving"
+            ]
+        },
+        {
+            "id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/368909",
+            "frabl": {
+                "key1": "",
+                "key2": "",
+                "cnt": "",
+                "value": ""
+            },
+            "detailLink": "https://edepot.wur.nl/45330",
+            "titles": [
+                "Effect of fish oil on ventricular tachyarrhythmia in patients with implantable defibrillators: a pooled analysis"
+            ],
+            "formats": [],
+            "authors": [
+                "Brouwer, I.A.",
+                "Raitt, M.H.",
+                "Dullemeijer, C.",
+                "Kraemer, D.F.",
+                "Zock, P.L.",
+                "Morris, C.",
+                "Katan, M.B.",
+                "Connor, W.E.",
+                "Schouten, E.G.",
+                "McAnulty, J."
+            ],
+            "authorsDetailed": [
+                {
+                    "full": "Brouwer, I.A."
+                },
+                {
+                    "full": "Raitt, M.H."
+                },
+                {
+                    "full": "Dullemeijer, C."
+                },
+                {
+                    "full": "Kraemer, D.F."
+                },
+                {
+                    "full": "Zock, P.L."
+                },
+                {
+                    "full": "Morris, C."
+                },
+                {
+                    "full": "Katan, M.B."
+                },
+                {
+                    "full": "Connor, W.E."
+                },
+                {
+                    "full": "Schouten, E.G."
+                },
+                {
+                    "full": "McAnulty, J."
+                }
+            ],
+            "publisher": [
+                "WUR_staff repository, 2007"
+            ],
+            "languages": [
+                "en"
+            ],
+            "summaries": [
+                "zonder beschrijving"
+            ]
+        },
+        {
+            "id": "|universal/sru_edurep|KennisLink:oai:kennislink.nl/19521",
+            "frabl": {
+                "key1": "",
+                "key2": "",
+                "cnt": "",
+                "value": ""
+            },
+            "detailLink": "http://www.kennislink.nl/publicaties/gezonde-voeding",
+            "titles": [
+                "Gezonde voeding"
+            ],
+            "formats": [],
+            "authors": [
+                "Emma van Laar"
+            ],
+            "authorsDetailed": [
+                {
+                    "full": "Emma van Laar"
+                }
+            ],
+            "publisher": [
+                "Kennislink"
+            ],
+            "languages": [
+                "nl"
+            ],
+            "summaries": [
+                "Gezonde voeding is belangrijk. Maar het effect van voedingscomponenten op de gezondheid is vaak lastig te meten. Met een nieuwe technologische strategie is het TNO-onderzoekers gelukt ook subtiele effecten van voeding op de gezondheid in kaart te brengen. Een studie met gezonde mannen met overgewicht liet zien dat voedingssupplementen een positief effect hadden op hun ‘ontstoken’ vetweefsel."
+            ]
+        },
+        {
+            "id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/317321",
+            "frabl": {
+                "key1": "",
+                "key2": "",
+                "cnt": "",
+                "value": ""
+            },
+            "detailLink": "https://edepot.wur.nl/473011",
+            "titles": [
+                "Voeding en Gezondheid : visvetzuren tegen fatale coronaire hartziekten"
+            ],
+            "formats": [],
+            "authors": [
+                "Zock, P.L.",
+                "Kromhout, D."
+            ],
+            "authorsDetailed": [
+                {
+                    "full": "Zock, P.L."
+                },
+                {
+                    "full": "Kromhout, D."
+                }
+            ],
+            "publisher": [
+                "WUR_staff repository, 2002"
+            ],
+            "languages": [
+                "nl"
+            ],
+            "summaries": [
+                "zonder beschrijving"
+            ]
+        },
+        {
+            "id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/318461",
+            "frabl": {
+                "key1": "",
+                "key2": "",
+                "cnt": "",
+                "value": ""
+            },
+            "detailLink": "https://edepot.wur.nl/46123",
+            "titles": [
+                "Redactionele kanttekeningen: Voeding en Gezondheid"
+            ],
+            "formats": [],
+            "authors": [
+                "Fernandes, J.",
+                "Katan, M.B.",
+                "Hart, W."
+            ],
+            "authorsDetailed": [
+                {
+                    "full": "Fernandes, J."
+                },
+                {
+                    "full": "Katan, M.B."
+                },
+                {
+                    "full": "Hart, W."
+                }
+            ],
+            "publisher": [
+                "WUR_staff repository, 2002"
+            ],
+            "languages": [
+                "nl"
+            ],
+            "summaries": [
+                "zonder beschrijving"
+            ]
+        },
+        {
+            "id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/1749",
+            "frabl": {
+                "key1": "",
+                "key2": "",
+                "cnt": "",
+                "value": ""
+            },
+            "detailLink": "https://edepot.wur.nl/472983",
+            "titles": [
+                "Richtlijnen goede voeding: een mijlpaal voor consument, arts en industrie?"
+            ],
+            "formats": [],
+            "authors": [
+                "Hautvast, J.G.A.J."
+            ],
+            "authorsDetailed": [
+                {
+                    "full": "Hautvast, J.G.A.J."
+                }
+            ],
+            "publisher": [
+                "WUR_staff repository, 1986"
+            ],
+            "languages": [
+                "nl"
+            ],
+            "summaries": [
+                "zonder beschrijving"
+            ]
+        },
+        {
+            "id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/378010",
+            "frabl": {
+                "key1": "",
+                "key2": "",
+                "cnt": "",
+                "value": ""
+            },
+            "detailLink": "https://edepot.wur.nl/4167",
+            "titles": [
+                "Zorgzame voeding : ouderen, voeding en gezondheid : een inventarisatie"
+            ],
+            "formats": [],
+            "authors": [
+                "Strous, M.B.",
+                "Westeneng, E."
+            ],
+            "authorsDetailed": [
+                {
+                    "full": "Strous, M.B."
+                },
+                {
+                    "full": "Westeneng, E."
+                }
+            ],
+            "publisher": [
+                "Agrotechnology & Food Sciences Group, 2009"
+            ],
+            "languages": [
+                "nl"
+            ],
+            "summaries": [
+                "AFSG en Van Hall Larenstein hebben samen een inventarisatie uitgevoerd gericht op voeding en ouderenzorg. Omdat de ziektedruk bij ouderen toeneemt ligt de focus van deze studie op de rol van voeding in de periode voor, tijdens en na ziekte en operatie. Gedurende het onderzoek is duidelijk geworden dat er in de instellingen al relatief veel aandacht is voor voeding. Maar slechts 7% van de ouderen woont in een instelling, de grootste groep ouderen woont zelfstandig. De grootste verbeterslag is dan ook te halen bij deze ouderen"
+            ]
+        },
+        {
+            "id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/497561",
+            "frabl": {
+                "key1": "",
+                "key2": "",
+                "cnt": "",
+                "value": ""
+            },
+            "detailLink": "https://edepot.wur.nl/366024",
+            "titles": [
+                "‘We moeten hypes blijven ontzenuwen’"
+            ],
+            "formats": [],
+            "authors": [
+                "Smit, A.",
+                "Kok, F.J."
+            ],
+            "authorsDetailed": [
+                {
+                    "full": "Smit, A."
+                },
+                {
+                    "full": "Kok, F.J."
+                }
+            ],
+            "publisher": [
+                "WUR_staff repository, 2015"
+            ],
+            "languages": [
+                "nl"
+            ],
+            "summaries": [
+                "Half oktober nam Frans Kok afscheid van Wageningen UR. Hij was er bijna een kwart eeuw hoogleraar en achttien jaar hoofd van de afdeling Humane Voeding. ‘Het wordt ons steeds duidelijker dat de crux van goede voeding niet in individuele stofjes zit, maar in voedingspatronen.’"
+            ]
+        },
+        {
+            "id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/543765",
+            "frabl": {
+                "key1": "",
+                "key2": "",
+                "cnt": "",
+                "value": ""
+            },
+            "detailLink": "https://edepot.wur.nl/465089",
+            "titles": [
+                "List of quality criteria - Development of a Quality Evaluation Framework for Consumer-Generated Domestic Food Preparation Data : deliverable D6.3"
+            ],
+            "formats": [],
+            "authors": [
+                "Klepacz, Naomi",
+                "Maringer, Marcus",
+                "Ekman, Susanne",
+                "Normann, Anne",
+                "Verain, M.C.D.",
+                "Geelen, M.M.E.E.",
+                "Raats, Monique",
+                "Zimmermann, K.L.",
+                "Veer, P., van 't",
+                "Mikkelsen, Bent Egberg"
+            ],
+            "authorsDetailed": [
+                {
+                    "full": "Klepacz, Naomi"
+                },
+                {
+                    "full": "Maringer, Marcus"
+                },
+                {
+                    "full": "Ekman, Susanne"
+                },
+                {
+                    "full": "Normann, Anne"
+                },
+                {
+                    "full": "Verain, M.C.D."
+                },
+                {
+                    "full": "Geelen, M.M.E.E."
+                },
+                {
+                    "full": "Raats, Monique"
+                },
+                {
+                    "full": "Zimmermann, K.L."
+                },
+                {
+                    "full": "Veer, P., van 't"
+                },
+                {
+                    "full": "Mikkelsen, Bent Egberg"
+                }
+            ],
+            "publisher": [
+                "EU, 2016"
+            ],
+            "languages": [
+                "en"
+            ],
+            "summaries": [
+                "zonder beschrijving"
+            ]
+        }
+    ]
+}
