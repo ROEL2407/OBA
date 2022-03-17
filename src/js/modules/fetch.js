@@ -31,7 +31,8 @@ export function getData() {
                     author: item.authors,
                     img: item.coverimages[1],
                     desc: item.description[0],
-                    link: item.detailLink
+                    link: item.detailLink,
+                    subject: item.subject
                 });
 
                 SuggestionArray.push({
@@ -53,7 +54,8 @@ export function getData() {
                             author: item.authors,
                             img: item.coverimages[1],
                             desc: item.description[0],
-                            link: item.detailLink
+                            link: item.detailLink,
+                            subject: item.subject
                         });
 
                         SuggestionArray.push({
@@ -81,7 +83,8 @@ export function getData2() {
                     author: item.authors,
                     img: item.coverimages[1],
                     desc: item.description[0],
-                    link: item.detailLink
+                    link: item.detailLink,
+                    subject: item.subject
                 });
 
                 SuggestionArray.push({
@@ -96,13 +99,11 @@ export function getData2() {
                 .then(response => response.json())
                 .then(response => {
                     console.log(response);
-                    response.forEach(item => {
+                    response.results.forEach(item => {
                         itemArray.push({
                             id: item.id,
-                            title: item.titles[1],
+                            title: item.titles[0],
                             author: item.authors,
-                            img: item.coverimages[1],
-                            desc: item.description[0],
                             link: item.detailLink
                         });
 
