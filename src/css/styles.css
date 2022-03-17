@@ -89,6 +89,7 @@ main > h2 {
 
 .book img {
     margin-right: 0.5em;
+    max-height: 16.250em;
 }
 
 .book a {
