@@ -1,1639 +1,1612 @@
-{
-    "results": [
-        {
-            "id": "|oba-catalogus|1244722",
-            "frabl": {
-                "key1": "voeding en jouw eetgedrag",
-                "key2": "anna claybourne",
-                "cnt": "1",
-                "value": "5BD15D2EBFF360A0"
-            },
-            "detailLink": "http://zoeken.oba.nl/detail/Anna-Claybourne/Voeding-en-jouw-eetgedrag/Boek/?itemid=%7coba-catalogus%7c1244722",
-            "titles": [
-                "Voeding en jouw eetgedrag",
-                "Voeding en jouw eetgedrag / Anna Claybourne"
-            ],
-            "isbn": [
-                "=9789086646876"
-            ],
-            "coverimages": [
-                "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=428916066&isbn=9789086646876&lid=&aut=&ti=&size=70",
-                "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/428916066&token=c1322402"
-            ],
-            "formats": [
-                {
-                    "text": "Boek",
-                    "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-                }
-            ],
-            "authors": [
-                "Anna Claybourne",
-                "Ellen Hoppenbrouwers",
-                "Ida Schuurman"
-            ],
-            "authorsDetailed": [
-                {
-                    "full": "Anna Claybourne",
-                    "firstname": "Anna",
-                    "lastname": "Claybourne",
-                    "localized-type": "Auteur",
-                    "creatortype": "person"
-                },
-                {
-                    "full": "Ellen Hoppenbrouwers",
-                    "lastname": "Ellen Hoppenbrouwers",
-                    "localized-type": "Vertaler",
-                    "creatortype": "organization"
-                },
-                {
-                    "full": "Ida Schuurman",
-                    "lastname": "Ida Schuurman",
-                    "localized-type": "Redacteur",
-                    "creatortype": "organization"
-                }
-            ],
-            "year": "2021",
-            "publisher": [
-                "Schoolsupport, Etten-Leur, [2021]"
-            ],
-            "subject-topical": [
-                "Voedingsleer",
-                "Gezonde voeding"
-            ],
-            "languages": [
-                "Nederlands",
-                "Engels"
-            ],
-            "summaries": [
-                "Wat gebeurt er als je niet gezond eet? Wat zijn eigenlijk 'goede' en 'slechte' producten? Lees van alles over gezonde voeding, om de (veel) juiste keuzes te maken. Ook dieten en eetstoornissen komen aan bod.  Met veel kleine kleurenillustraties. Vanaf ca. 10 t/m 13 jaar."
-            ],
-            "description": [
-                "32 pagina's",
-                "32 pagina's: gekleurde illustraties ; 26 cm"
-            ],
-            "note": "Vertaling van: Food and eating. - Franklin Watts, (c)2016. - (Healthy for life)",
-            "series": [
-                {
-                    "text": "Jij en je lichaam"
-                }
-            ],
-            "undup": {
-                "alsoAvailableAsCount": "0",
-                "items": [
-                    {
-                        "key1": "voeding en jouw eetgedrag",
-                        "key2": "anna claybourne",
-                        "cnt": "1",
-                        "value": "5BD15D2EBFF360A0"
-                    }
-                ]
-            },
-            "siso": [
-                "J628.4"
-            ]
+[
+    {
+        "id": "|oba-catalogus|1165620",
+        "frabl": {
+            "key1": "recepten uit de bekroonde kookboeken van het jaar 2007 2016",
+            "key2": "fusina verloop",
+            "cnt": "1",
+            "value": "6B44FD0295F360A0"
         },
-        {
-            "id": "|oba-catalogus|166036",
-            "frabl": {
-                "key1": "voeding",
-                "key2": "cden hartog",
-                "cnt": "1",
-                "value": "612B47BB88F360A0"
-            },
-            "detailLink": "http://zoeken.oba.nl/detail/C-den-Hartog/Voeding/Boek/?itemid=%7coba-catalogus%7c166036",
-            "titles": [
-                "Voeding",
-                "Voeding / door C. den Hartog ; ill. verzorgd door Heleen van Dijk"
-            ],
-            "coverimages": [
-                "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=047048069&isbn=&lid=&aut=&ti=&size=70",
-                "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/047048069&token=c1322402"
-            ],
-            "formats": [
-                {
-                    "text": "Boek",
-                    "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-                }
-            ],
-            "authors": [
-                "C. den Hartog",
-                "Heleen Rijneveld"
-            ],
-            "authorsDetailed": [
-                {
-                    "full": "C. den Hartog",
-                    "firstname": "C.",
-                    "lastname": "Hartog",
-                    "creatortype": "person"
-                },
-                {
-                    "full": "Heleen Rijneveld",
-                    "lastname": "Heleen Rijneveld",
-                    "creatortype": "organization"
-                }
-            ],
-            "year": "1956",
-            "publisher": [
-                "Duwaer, Amsterdam, 1956"
-            ],
-            "subject-topical": [
-                "Voedingsleer"
-            ],
-            "languages": [
-                "Nederlands"
-            ],
-            "description": [
-                "55 p",
-                "55 p: ill ; 20 cm"
-            ],
-            "series": [
-                {
-                    "text": "Boortorenreeks"
-                }
-            ],
-            "undup": {
-                "alsoAvailableAsCount": "0",
-                "items": [
-                    {
-                        "key1": "voeding",
-                        "key2": "cden hartog",
-                        "cnt": "1",
-                        "value": "612B47BB88F360A0"
-                    }
-                ]
-            },
-            "siso": [
-                "628.4"
-            ]
-        },
-        {
-            "id": "|oba-catalogus|1186784",
-            "frabl": {
-                "key1": "101 mythes over voeding",
-                "key2": "vreni van unen lisa van rens evert van hardeveld",
-                "cnt": "1",
-                "value": "3EBA64C236F360A0"
-            },
-            "detailLink": "http://zoeken.oba.nl/detail/Vreni-van-Unen/101-mythes-over-voeding/Boek/?itemid=%7coba-catalogus%7c1186784",
-            "titles": [
-                "101 mythes over voeding",
-                "101 mythes over voeding / vertaling [uit het Duits]: Vreni van Unen"
-            ],
-            "isbn": [
-                "=9789059514164"
-            ],
-            "coverimages": [
-                "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=417341229&isbn=9789059514164&lid=&aut=&ti=&size=70",
-                "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/417341229&token=c1322402"
-            ],
-            "formats": [
-                {
-                    "text": "Boek",
-                    "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-                }
-            ],
-            "authors": [
-                "Vreni van Unen",
-                "Lisa van Rens",
-                "Evert van Hardeveld"
-            ],
-            "authorsDetailed": [
-                {
-                    "full": "Vreni van Unen",
-                    "lastname": "Vreni van Unen",
-                    "localized-type": "Vertaler",
-                    "creatortype": "organization"
-                },
-                {
-                    "full": "Lisa van Rens",
-                    "lastname": "Lisa van Rens",
-                    "localized-type": "Redacteur",
-                    "creatortype": "organization"
-                },
-                {
-                    "full": "Evert van Hardeveld",
-                    "lastname": "Evert van Hardeveld",
-                    "localized-type": "Medewerker",
-                    "creatortype": "organization"
-                }
-            ],
-            "year": "2018",
-            "publisher": [
-                "Consumentenbond, Den Haag, maart 2018"
-            ],
-            "subject-topical": [
-                "Voeding",
-                "Gezondheid",
-                "Voedingsleer"
-            ],
-            "languages": [
-                "Nederlands",
-                "Duits"
-            ],
-            "description": [
-                "189 pagina's",
-                "189 pagina's: illustraties ; 24 cm"
-            ],
-            "undup": {
-                "alsoAvailableAsCount": "0",
-                "items": [
-                    {
-                        "key1": "101 mythes over voeding",
-                        "key2": "vreni van unen lisa van rens evert van hardeveld",
-                        "cnt": "1",
-                        "value": "3EBA64C236F360A0"
-                    }
-                ]
-            },
-            "siso": [
-                "628.4"
-            ]
-        },
-        {
-            "id": "|oba-catalogus|1155031",
-            "frabl": {
-                "key1": "etenstijd na het lezen van dit boek weet je meer over voeding dan je ouders",
-                "key2": "bas houweling",
-                "cnt": "1",
-                "value": "18FBC6CE39F360A0"
-            },
-            "detailLink": "http://zoeken.oba.nl/detail/Bas-Houweling/Etenstijd-na-het-lezen-van-dit-boek-weet-je/Boek/?itemid=%7coba-catalogus%7c1155031",
-            "titles": [
-                "Etenstijd : na het lezen van dit boek weet je meer over voeding dan je ouders",
-                "Etenstijd : na het lezen van dit boek weet je meer over voeding dan je ouders / huisarts dokter Bas Houweling & wetenschapper dokter Nanno Kleefstra & diëtist en voedingswetenschapper Kirsten Berk"
-            ],
-            "isbn": [
-                "=9789082491418"
-            ],
-            "coverimages": [
-                "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=402326806&isbn=9789082491418&lid=&aut=&ti=&size=70",
-                "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/402326806&token=c1322402"
-            ],
-            "formats": [
-                {
-                    "text": "Boek",
-                    "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-                }
-            ],
-            "authors": [
-                "Bas Houweling",
-                "Nanno Kleefstra",
-                "Kirsten Berk",
-                "Floortje Klinkenberg",
-                "Herma Geerts-Nolet",
-                "Tineke Dorst",
-                "Pierre Wind"
-            ],
-            "authorsDetailed": [
-                {
-                    "full": "Bas Houweling",
-                    "firstname": "Bas",
-                    "lastname": "Houweling",
-                    "localized-type": "Auteur",
-                    "creatortype": "person"
-                },
-                {
-                    "full": "Nanno Kleefstra",
-                    "lastname": "Nanno Kleefstra",
-                    "localized-type": "Auteur",
-                    "creatortype": "organization"
-                },
-                {
-                    "full": "Kirsten Berk",
-                    "lastname": "Kirsten Berk",
-                    "localized-type": "Auteur",
-                    "creatortype": "organization"
-                },
-                {
-                    "full": "Floortje Klinkenberg",
-                    "lastname": "Floortje Klinkenberg",
-                    "localized-type": "Illustrator",
-                    "creatortype": "organization"
-                },
-                {
-                    "full": "Herma Geerts-Nolet",
-                    "lastname": "Herma Geerts-Nolet",
-                    "localized-type": "Redacteur",
-                    "creatortype": "organization"
-                },
-                {
-                    "full": "Tineke Dorst",
-                    "lastname": "Tineke Dorst",
-                    "localized-type": "Illustrator",
-                    "creatortype": "organization"
-                },
-                {
-                    "full": "Pierre Wind",
-                    "lastname": "Pierre Wind",
-                    "localized-type": "Medewerker",
-                    "creatortype": "organization"
-                }
-            ],
-            "year": "2016",
-            "publisher": [
-                "Uitgeverij Langerhans, [Zwolle], [2016]"
-            ],
-            "subject-topical": [
-                "Voeding"
-            ],
-            "languages": [
-                "Nederlands"
-            ],
-            "summaries": [
-                "Wat moet je doen als je geen groente lust? En welke informatie staat er allemaal op verpakkingen?  Een (huis)arts, wetenschapper en dietist leggen uit wat gezond eten is en waarom dat belangrijk is. Met veel grappige kleurenillustraties, weetjes en quizvragen. Vanaf ca. 10 t/m 12 jaar."
-            ],
-            "description": [
-                "124 pagina's",
-                "124 pagina's: gekleurde tekeningen ; 22 cm"
-            ],
-            "note": "Titel ook te lezen als: Etenstrijd. - Met literatuuropgave, index",
-            "undup": {
-                "alsoAvailableAsCount": "0",
-                "items": [
-                    {
-                        "key1": "etenstijd na het lezen van dit boek weet je meer over voeding dan je ouders",
-                        "key2": "bas houweling",
-                        "cnt": "1",
-                        "value": "18FBC6CE39F360A0"
-                    }
-                ]
-            },
-            "siso": [
-                "J628.1"
-            ]
-        },
-        {
-            "id": "|oba-catalogus|1172647",
-            "frabl": {
-                "key1": "voeding je gezondheid",
-                "key2": "angela severs",
-                "cnt": "1",
-                "value": "F51B31BC8F360A0"
-            },
-            "detailLink": "http://zoeken.oba.nl/detail/Angela-Severs/Voeding-je-gezondheid/Boek/?itemid=%7coba-catalogus%7c1172647",
-            "titles": [
-                "Voeding & je gezondheid",
-                "Voeding & je gezondheid / Angela Severs & Christel Vondermans"
-            ],
-            "isbn": [
-                "=9789059513884"
-            ],
-            "coverimages": [
-                "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=411174339&isbn=9789059513884&lid=&aut=&ti=&size=70",
-                "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/411174339&token=c1322402"
-            ],
-            "formats": [
-                {
-                    "text": "Boek",
-                    "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-                }
-            ],
-            "authors": [
-                "Angela Severs",
-                "Christel Vondermans",
-                "Evert van Hardeveld",
-                "Stefan Boerboom"
-            ],
-            "authorsDetailed": [
-                {
-                    "full": "Angela Severs",
-                    "firstname": "Angela",
-                    "lastname": "Severs",
-                    "localized-type": "Auteur",
-                    "creatortype": "person"
-                },
-                {
-                    "full": "Christel Vondermans",
-                    "lastname": "Christel Vondermans",
-                    "localized-type": "Auteur",
-                    "creatortype": "organization"
-                },
-                {
-                    "full": "Evert van Hardeveld",
-                    "lastname": "Evert van Hardeveld",
-                    "localized-type": "Medewerker",
-                    "creatortype": "organization"
-                },
-                {
-                    "full": "Stefan Boerboom",
-                    "lastname": "Stefan Boerboom",
-                    "localized-type": "Redacteur",
-                    "creatortype": "organization"
-                }
-            ],
-            "year": "2017",
-            "publisher": [
-                "Consumentenbond, Den Haag, juni 2017"
-            ],
-            "subject-topical": [
-                "Voeding",
-                "Gezondheid",
-                "Voedingsleer"
-            ],
-            "languages": [
-                "Nederlands"
-            ],
-            "summaries": [
-                "De meest recente wetenschappelijke inzichten over de rol van voeding bij gezondheid en preventie van ziekte."
-            ],
-            "description": [
-                "158 pagina's",
-                "158 pagina's: illustraties ; 24 cm"
-            ],
-            "note": "Met register",
-            "undup": {
-                "alsoAvailableAsCount": "0",
-                "items": [
-                    {
-                        "key1": "voeding je gezondheid",
-                        "key2": "angela severs",
-                        "cnt": "1",
-                        "value": "F51B31BC8F360A0"
-                    }
-                ]
-            },
-            "siso": [
-                "628.4"
-            ]
-        },
-        {
-            "id": "|oba-catalogus|1197230",
-            "frabl": {
-                "key1": "voeding en de gevende kracht van de mens de geestelijke betekenis van de voeding",
-                "key2": "heinz grill",
-                "cnt": "1",
-                "value": "7A09CCF932F360A0"
-            },
-            "detailLink": "http://zoeken.oba.nl/detail/Heinz-Grill/Voeding-en-de-gevende-kracht-van-de-mens-de/Boek/?itemid=%7coba-catalogus%7c1197230",
-            "titles": [
-                "Voeding en de gevende kracht van de mens : de geestelijke betekenis van de voeding",
-                "Voeding en de gevende kracht van de mens : de geestelijke betekenis van de voeding / Heinz Grill"
-            ],
-            "isbn": [
-                "=9789461680624"
-            ],
-            "coverimages": [
-                "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=41921738X&isbn=9789461680624&lid=&aut=&ti=&size=70",
-                "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/41921738X&token=c1322402"
-            ],
-            "formats": [
-                {
-                    "text": "Boek",
-                    "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-                }
-            ],
-            "authors": [
-                "Heinz Grill",
-                "Kurt Deneir",
-                "Christine Medaer",
-                "Peter Vandermeersch",
-                "Christine Hüttl"
-            ],
-            "authorsDetailed": [
-                {
-                    "full": "Heinz Grill",
-                    "firstname": "Heinz",
-                    "lastname": "Grill",
-                    "localized-type": "Auteur",
-                    "creatortype": "person"
-                },
-                {
-                    "full": "Kurt Deneir",
-                    "lastname": "Kurt Deneir",
-                    "localized-type": "Vertaler",
-                    "creatortype": "organization"
-                },
-                {
-                    "full": "Christine Medaer",
-                    "lastname": "Christine Medaer",
-                    "localized-type": "Vertaler",
-                    "creatortype": "organization"
-                },
-                {
-                    "full": "Peter Vandermeersch",
-                    "lastname": "Peter Vandermeersch",
-                    "localized-type": "Vertaler",
-                    "creatortype": "organization"
-                },
-                {
-                    "full": "Christine Hüttl",
-                    "lastname": "Christine Hüttl",
-                    "localized-type": "Redacteur",
-                    "creatortype": "organization"
-                }
-            ],
-            "year": "2018",
-            "publisher": [
-                "Zorro uitgeverij, Damme, mei 2018"
-            ],
-            "subject-topical": [
-                "Voeding",
-                "Antroposofische visie"
-            ],
-            "languages": [
-                "Nederlands",
-                "Duits"
-            ],
-            "summaries": [
-                "Studieboek over de invloed en betekenis van voeding op/voor het ziels-geestelijke leven van mensen."
-            ],
-            "description": [
-                "200 pagina's",
-                "200 pagina's: illustraties ; 27 cm"
-            ],
-            "undup": {
-                "alsoAvailableAsCount": "0",
-                "items": [
-                    {
-                        "key1": "voeding en de gevende kracht van de mens de geestelijke betekenis van de voeding",
-                        "key2": "heinz grill",
-                        "cnt": "1",
-                        "value": "7A09CCF932F360A0"
-                    }
-                ]
-            },
-            "siso": [
-                "628.9"
-            ]
-        },
-        {
-            "id": "|oba-catalogus|1115904",
-            "frabl": {
-                "key1": "handboek plantaardige en rauwe voeding voeding die voedt reinigt beschermt en geneest",
-                "key2": "laurette van slobbe",
-                "cnt": "1",
-                "value": "4572F2B213F360A0"
-            },
-            "detailLink": "http://zoeken.oba.nl/detail/Laurette-van-Slobbe/Handboek-plantaardige-en-rauwe-voeding/Boek/?itemid=%7coba-catalogus%7c1115904",
-            "titles": [
-                "Handboek plantaardige en rauwe voeding : voeding die voedt, reinigt, beschermt en geneest",
-                "Handboek plantaardige en rauwe voeding : voeding die voedt, reinigt, beschermt en geneest / Laurette van Slobbe"
-            ],
-            "isbn": [
-                "=9789062245376"
-            ],
-            "coverimages": [
-                "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=37549670X&isbn=9789062245376&lid=&aut=&ti=&size=70",
-                "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/37549670X&token=c1322402"
-            ],
-            "formats": [
-                {
-                    "text": "Boek",
-                    "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-                }
-            ],
-            "authors": [
-                "Laurette van Slobbe"
-            ],
-            "authorsDetailed": [
-                {
-                    "full": "Laurette van Slobbe",
-                    "firstname": "Laurette",
-                    "lastname": "Slobbe",
-                    "creatortype": "person"
-                }
-            ],
-            "year": "2014",
-            "publisher": [
-                "Twello",
-                "Hof van Twello, Utrecht",
-                "Jan van Arkel, april 2014"
-            ],
-            "subject-topical": [
-                "Rauwkost",
-                "Voedingsleer",
-                "Vegetarische voeding",
-                "Rauwkostrecepten"
-            ],
-            "languages": [
-                "Nederlands"
-            ],
-            "description": [
-                "319 pagina's",
-                "319 pagina's: illustraties ; 23 cm"
-            ],
-            "note": "Met index, literatuuropgave",
-            "undup": {
-                "alsoAvailableAsCount": "0",
-                "items": [
-                    {
-                        "key1": "handboek plantaardige en rauwe voeding voeding die voedt reinigt beschermt en geneest",
-                        "key2": "laurette van slobbe",
-                        "cnt": "1",
-                        "value": "4572F2B213F360A0"
-                    }
-                ]
-            },
-            "siso": [
-                "628.4"
-            ]
-        },
-        {
-            "id": "|oba-catalogus|1254132",
-            "frabl": {
-                "key1": "gezonde voeding",
-                "key2": "bo buijs",
-                "cnt": "1",
-                "value": "1D6BC68DFCF360A0"
-            },
-            "detailLink": "http://zoeken.oba.nl/detail/Bo-Buijs/Gezonde-voeding/Boek/?itemid=%7coba-catalogus%7c1254132",
-            "titles": [
-                "Gezonde voeding",
-                "Gezonde voeding / Bo Buijs"
-            ],
-            "isbn": [
-                "=9789086648085"
-            ],
-            "coverimages": [
-                "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=435006452&isbn=9789086648085&lid=&aut=&ti=&size=70",
-                "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/435006452&token=c1322402"
-            ],
-            "formats": [
-                {
-                    "text": "Boek",
-                    "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-                }
-            ],
-            "authors": [
-                "Bo Buijs",
-                "Karin van Hoof"
-            ],
-            "authorsDetailed": [
-                {
-                    "full": "Bo Buijs",
-                    "firstname": "Bo",
-                    "lastname": "Buijs",
-                    "localized-type": "Auteur",
-                    "creatortype": "person"
-                },
-                {
-                    "full": "Karin van Hoof",
-                    "lastname": "Karin van Hoof",
-                    "localized-type": "Redacteur",
-                    "creatortype": "organization"
-                }
-            ],
-            "year": "2022",
-            "publisher": [
-                "Schoolsupport, Etten-Leur, [2022]"
-            ],
-            "subject-topical": [
-                "Gezonde voeding"
-            ],
-            "languages": [
-                "Nederlands"
-            ],
-            "description": [
-                "32 pagina's",
-                "32 pagina's: gekleurde illustraties ; 24 cm"
-            ],
-            "note": "Colofon vermeldt: 0/22. - Met literatuuropgave",
-            "series": [
-                {
-                    "text": "Informatie"
-                }
-            ],
-            "undup": {
-                "alsoAvailableAsCount": "0",
-                "items": [
-                    {
-                        "key1": "gezonde voeding",
-                        "key2": "bo buijs",
-                        "cnt": "1",
-                        "value": "1D6BC68DFCF360A0"
-                    }
-                ]
-            },
-            "siso": [
-                "J628.4"
-            ]
-        },
-        {
-            "id": "|oba-catalogus|1177271",
-            "frabl": {
-                "key1": "van mammoet tot big mac een geschiedenis van onze voeding",
-                "key2": "staf henderickx",
-                "cnt": "1",
-                "value": "B77588911F360A0"
-            },
-            "detailLink": "http://zoeken.oba.nl/detail/Staf-Henderickx/Van-mammoet-tot-big-mac-een-geschiedenis-van/Boek/?itemid=%7coba-catalogus%7c1177271",
-            "titles": [
-                "Van mammoet tot big mac : een geschiedenis van onze voeding",
-                "Van mammoet tot big mac : een geschiedenis van onze voeding / Staf Henderickx"
-            ],
-            "isbn": [
-                "=9789462671171"
-            ],
-            "coverimages": [
-                "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=412908344&isbn=9789462671171&lid=&aut=&ti=&size=70",
-                "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/412908344&token=c1322402"
-            ],
-            "formats": [
-                {
-                    "text": "Boek",
-                    "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-                }
-            ],
-            "authors": [
-                "Staf Henderickx"
-            ],
-            "authorsDetailed": [
-                {
-                    "full": "Staf Henderickx",
-                    "firstname": "Staf",
-                    "lastname": "Henderickx",
-                    "localized-type": "Auteur",
-                    "creatortype": "person"
-                }
-            ],
-            "year": "2017",
-            "publisher": [
-                "EPO, Berchem, [2017]"
-            ],
-            "subject-topical": [
-                "Voeding",
-                "Cultuurgeschiedenis"
-            ],
-            "languages": [
-                "Nederlands"
-            ],
-            "description": [
-                "303 pagina's",
-                "303 pagina's ; 23 cm"
-            ],
-            "note": "Met literatuuropgave",
-            "undup": {
-                "alsoAvailableAsCount": "0",
-                "items": [
-                    {
-                        "key1": "van mammoet tot big mac een geschiedenis van onze voeding",
-                        "key2": "staf henderickx",
-                        "cnt": "1",
-                        "value": "B77588911F360A0"
-                    }
-                ]
-            },
-            "siso": [
-                "906.3"
-            ]
-        },
-        {
-            "id": "|oba-catalogus|1034659",
-            "frabl": {
-                "key1": "voeding en fysieke degeneratie het basisboek over voeding en het voorkomen van ziekten",
-                "key2": "weston aprice",
-                "cnt": "1",
-                "value": "404D3A49A1F360A0"
-            },
-            "detailLink": "http://zoeken.oba.nl/detail/Weston-A-Price/Voeding-en-fysieke-degeneratie-het-basisboek/Boek/?itemid=%7coba-catalogus%7c1034659",
-            "titles": [
-                "Voeding en fysieke degeneratie : het basisboek over voeding en het voorkomen van ziekten",
-                "Voeding en fysieke degeneratie : het basisboek over voeding en het voorkomen van ziekten / Weston A. Price"
-            ],
-            "isbn": [
-                "9789079872428"
-            ],
-            "coverimages": [
-                "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=339254963&isbn=9789079872428&lid=&aut=&ti=&size=70",
-                "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/339254963&token=c1322402"
-            ],
-            "formats": [
-                {
-                    "text": "Boek",
-                    "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-                }
-            ],
-            "authors": [
-                "Weston A. Price",
-                "Titus van den Hurk",
-                "Mike Donkers"
-            ],
-            "authorsDetailed": [
-                {
-                    "full": "Weston A. Price",
-                    "firstname": "Weston A.",
-                    "lastname": "Price",
-                    "creatortype": "person"
-                },
-                {
-                    "full": "Titus van den Hurk",
-                    "lastname": "Titus van den Hurk",
-                    "creatortype": "organization"
-                },
-                {
-                    "full": "Mike Donkers",
-                    "lastname": "Mike Donkers",
-                    "creatortype": "organization"
-                }
-            ],
-            "year": "2012",
-            "publisher": [
-                "Succesboeken.nl, [Den Dolder], cop. 2012"
-            ],
-            "subject-topical": [
-                "Voeding",
-                "Gezondheid",
-                "Welvaartsziekten",
-                "Voedingsleer",
-                "Ziekten",
-                "Preventie",
-                "Mondaandoeningen"
-            ],
-            "languages": [
-                "Nederlands",
-                "Engels"
-            ],
-            "description": [
-                "516 p",
-                "516 p: ill ; 31 cm"
-            ],
-            "note": "Vert. van: Nutrition and physical degeneration. - Cop. 1939",
-            "undup": {
-                "alsoAvailableAsCount": "0",
-                "items": [
-                    {
-                        "key1": "voeding en fysieke degeneratie het basisboek over voeding en het voorkomen van ziekten",
-                        "key2": "weston aprice",
-                        "cnt": "1",
-                        "value": "404D3A49A1F360A0"
-                    }
-                ]
-            },
-            "siso": [
-                "628.4"
-            ]
-        },
-        {
-            "id": "|oba-catalogus|610459",
-            "frabl": {
-                "key1": "voeding en gezondheid een overzicht van de functionele componenten in levensmid d elen en van de relatie voeding en gezondheid",
-                "key2": "john van camp stefaan de henauw mirjana andjelkovic",
-                "cnt": "1",
-                "value": "4BC8A1FA35F360A0"
-            },
-            "detailLink": "http://zoeken.oba.nl/detail/John-Van-Camp/Voeding-en-gezondheid-een-overzicht-van-de/Boek/?itemid=%7coba-catalogus%7c610459",
-            "titles": [
-                "Voeding en gezondheid : een overzicht van de functionele componenten in levensmid[d]elen en van de relatie voeding en gezondheid",
-                "Voeding en gezondheid : een overzicht van de functionele componenten in levensmid[d]elen en van de relatie voeding en gezondheid / John Van Camp, Stefaan De Henauw, Bruno De Meulenaer (red.)"
-            ],
-            "isbn": [
-                "9020966006=9789020966008"
-            ],
-            "coverimages": [
-                "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=294558748&isbn=9789020966008&lid=&aut=&ti=&size=70",
-                "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/294558748&token=c1322402"
-            ],
-            "formats": [
-                {
-                    "text": "Boek",
-                    "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-                }
-            ],
-            "authors": [
-                "John Van Camp",
-                "Stefaan De Henauw",
-                "Mirjana Andjelkovic"
-            ],
-            "authorsDetailed": [
-                {
-                    "full": "John Van Camp",
-                    "lastname": "John Van Camp",
-                    "creatortype": "organization"
-                },
-                {
-                    "full": "Stefaan De Henauw",
-                    "lastname": "Stefaan De Henauw",
-                    "creatortype": "organization"
-                },
-                {
-                    "full": "Mirjana Andjelkovic",
-                    "lastname": "Mirjana Andjelkovic",
-                    "creatortype": "organization"
-                }
-            ],
-            "year": "2006",
-            "publisher": [
-                "LannooCampus, Heverlee-Leuven, cop. 2006"
-            ],
-            "subject-topical": [
-                "Voeding",
-                "Gezondheid",
-                "Voedingsleer"
-            ],
-            "languages": [
-                "Nederlands"
-            ],
-            "description": [
-                "132 p",
-                "132 p: ill ; 24 cm"
-            ],
-            "note": "Uitg. in opdracht van Flander's Food, competentiepool van de Vlaamse Voedingsindustrie",
-            "undup": {
-                "alsoAvailableAsCount": "0",
-                "items": [
-                    {
-                        "key1": "voeding en gezondheid een overzicht van de functionele componenten in levensmid d elen en van de relatie voeding en gezondheid",
-                        "key2": "john van camp stefaan de henauw mirjana andjelkovic",
-                        "cnt": "1",
-                        "value": "4BC8A1FA35F360A0"
-                    }
-                ]
-            },
-            "siso": [
-                "628.4"
-            ]
-        },
-        {
-            "id": "|oba-catalogus|130129",
-            "frabl": {
-                "key1": "voeding en chronische ziekten",
-                "key2": "jjvan binsbergen skalmijn",
-                "cnt": "1",
-                "value": "7A30AF8C73F360A0"
-            },
-            "detailLink": "http://zoeken.oba.nl/detail/J-J-van-Binsbergen/Voeding-en-chronische-ziekten/Boek/?itemid=%7coba-catalogus%7c130129",
-            "titles": [
-                "Voeding en chronische ziekten",
-                "Voeding en chronische ziekten / onder red. van J.J. van Binsbergen, S. Kalmijn en M.C. Ocké"
-            ],
-            "isbn": [
-                "9058050459"
-            ],
-            "coverimages": [
-                "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=227936795&isbn=9789058050458&lid=&aut=&ti=&size=70",
-                "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/227936795&token=c1322402"
-            ],
-            "formats": [
-                {
-                    "text": "Boek",
-                    "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-                }
-            ],
-            "authors": [
-                "J.J. van Binsbergen",
-                "S. Kalmijn"
-            ],
-            "authorsDetailed": [
-                {
-                    "full": "J.J. van Binsbergen",
-                    "lastname": "J.J. van Binsbergen",
-                    "creatortype": "organization"
-                },
-                {
-                    "full": "S. Kalmijn",
-                    "lastname": "S. Kalmijn",
-                    "creatortype": "organization"
-                }
-            ],
-            "year": "2001",
-            "publisher": [
-                "Van der Wees, Utrecht, 2001"
-            ],
-            "subject-topical": [
-                "Voeding",
-                "Chronische ziekten"
-            ],
-            "languages": [
-                "Nederlands"
-            ],
-            "description": [
-                "250 p",
-                "250 p: fig., tab ; 24 cm"
-            ],
-            "note": "Met lit. opg., reg",
-            "undup": {
-                "alsoAvailableAsCount": "0",
-                "items": [
-                    {
-                        "key1": "voeding en chronische ziekten",
-                        "key2": "jjvan binsbergen skalmijn",
-                        "cnt": "1",
-                        "value": "7A30AF8C73F360A0"
-                    }
-                ]
+        "detailLink": "http://zoeken.oba.nl/detail/Fusina-Verloop/Recepten-uit-de-bekroonde-kookboeken-van-het/Boek/?itemid=%7coba-catalogus%7c1165620",
+        "titles": [
+            "Recepten uit de bekroonde kookboeken van het jaar 2007-2016",
+            "Recepten uit de bekroonde kookboeken van het jaar 2007-2016 / eindredactie Fusina Verloop"
+        ],
+        "isbn": [
+            "=9789491525520"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=404324908&isbn=9789491525520&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/404324908&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
             }
-        },
-        {
-            "id": "|oba-catalogus|872619",
-            "frabl": {
-                "key1": "verboden onreine substanties in voeding en geneesmiddelen",
-                "key2": "nazih hammad",
-                "cnt": "1",
-                "value": "68FFCD4DA3F360A0"
-            },
-            "detailLink": "http://zoeken.oba.nl/detail/Nazih-_Hammad/Verboden-onreine-substanties-in-voeding-en/Boek/?itemid=%7coba-catalogus%7c872619",
-            "titles": [
-                "Verboden & onreine substanties in voeding en geneesmiddelen",
-                "Verboden & onreine substanties in voeding en geneesmiddelen / Nazîh _Hammâd"
-            ],
-            "isbn": [
-                "9782930395050"
-            ],
-            "coverimages": [
-                "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=313840024&isbn=9782930395050&lid=&aut=&ti=&size=70",
-                "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/313840024&token=c1322402"
-            ],
-            "formats": [
+        ],
+        "authors": [
+            "Fusina Verloop"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "Fusina Verloop",
+                "lastname": "Fusina Verloop",
+                "localized-type": "Redacteur",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2016",
+        "publisher": [
+            "[Amsterdam]",
+            "De wonderneming, [Den Haag]",
+            "verkoop/distributie Uitgeverij Komma, [2016]"
+        ],
+        "subject-topical": [
+            "Kookboeken"
+        ],
+        "languages": [
+            "Nederlands"
+        ],
+        "description": [
+            "126 pagina's",
+            "126 pagina's: illustraties ; 21 cm"
+        ],
+        "note": "Oplage 2500 exemplaren. - Met lijst van bekroonde kookboeken",
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
                 {
-                    "text": "Boek",
-                    "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
+                    "key1": "recepten uit de bekroonde kookboeken van het jaar 2007 2016",
+                    "key2": "fusina verloop",
+                    "cnt": "1",
+                    "value": "6B44FD0295F360A0"
                 }
-            ],
-            "authors": [
-                "Nazîh _Hammâd"
-            ],
-            "authorsDetailed": [
-                {
-                    "full": "Nazîh _Hammâd",
-                    "firstname": "Nazîh",
-                    "lastname": "_Hammâd",
-                    "creatortype": "person"
-                }
-            ],
-            "year": "2008",
-            "publisher": [
-                "Brussel",
-                "al-Hadîth, Amsterdam",
-                "Sheijma [distr.], cop. 2008"
-            ],
-            "subject-topical": [
-                "Voeding",
-                "Geloofsleer",
-                "Islam"
-            ],
-            "languages": [
-                "Nederlands",
-                "Arabisch"
-            ],
-            "summaries": [
-                "Uitleg van de islamitische wetten betreffende verboden en onreine substanties in voeding en geneesmiddelen en of deze al dan niet gebruikt mogen worden door moslims."
-            ],
-            "description": [
-                "150 p",
-                "150 p ; 22 cm"
-            ],
-            "note": "Vert. van: Al-mawâd al-mu_harrama wal-najisa fîl-ghadhâwal-dawâ. - 3e dr.",
-            "undup": {
-                "alsoAvailableAsCount": "0",
-                "items": [
-                    {
-                        "key1": "verboden onreine substanties in voeding en geneesmiddelen",
-                        "key2": "nazih hammad",
-                        "cnt": "1",
-                        "value": "68FFCD4DA3F360A0"
-                    }
-                ]
-            },
-            "siso": [
-                "217.3"
             ]
         },
-        {
-            "id": "|oba-catalogus|1147713",
-            "frabl": {
-                "key1": "kids gezonde voeding gids",
-                "key2": "rocio pol esteban",
-                "cnt": "1",
-                "value": "5FA9B6C779F360A0"
+        "siso": [
+            "629.2"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|616959",
+        "frabl": {
+            "key1": "koks keukenmeiden amsterdamse kookboeken uit de gastronomische bibliotheek en de bibliotheek van de universiteit van amsterdam",
+            "key2": "johannes van dam",
+            "cnt": "1",
+            "value": "7CF725F133F360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/Johannes-van-Dam/Koks-keukenmeiden-Amsterdamse-kookboeken/Boek/?itemid=%7coba-catalogus%7c616959",
+        "titles": [
+            "Koks & keukenmeiden : Amsterdamse kookboeken uit de Gastronomische Bibliotheek en de Bibliotheek van de Universiteit van Amsterdam",
+            "Koks & keukenmeiden : Amsterdamse kookboeken uit de Gastronomische Bibliotheek en de Bibliotheek van de Universiteit van Amsterdam / Johannes van Dam, Joop Witteveen"
+        ],
+        "isbn": [
+            "9038814488"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=296093645&isbn=9789038814483&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/296093645&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+            }
+        ],
+        "authors": [
+            "Johannes van Dam",
+            "Joop Witteveen",
+            "Yvonne Gnirrep"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "Johannes van Dam",
+                "firstname": "Johannes",
+                "lastname": "Dam",
+                "creatortype": "person"
             },
-            "detailLink": "http://zoeken.oba.nl/detail/Rocio-Pol-Esteban/Kids%27-gezonde-voeding-gids/Boek/?itemid=%7coba-catalogus%7c1147713",
-            "titles": [
-                "Kids' gezonde voeding gids",
-                "Kids' gezonde voeding gids / een boek van Rocio Pol Esteban"
-            ],
-            "isbn": [
-                "=9789082430103"
-            ],
-            "coverimages": [
-                "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=397070446&isbn=9789082430103&lid=&aut=&ti=&size=70",
-                "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/397070446&token=c1322402"
-            ],
-            "formats": [
-                {
-                    "text": "Boek",
-                    "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-                }
-            ],
-            "authors": [
-                "Rocio Pol Esteban",
-                "Carl Waffle"
-            ],
-            "authorsDetailed": [
-                {
-                    "full": "Rocio Pol Esteban",
-                    "firstname": "Rocio Pol",
-                    "lastname": "Esteban",
-                    "localized-type": "Auteur",
-                    "creatortype": "person"
-                },
-                {
-                    "full": "Carl Waffle",
-                    "lastname": "Carl Waffle",
-                    "localized-type": "Illustrator",
-                    "creatortype": "organization"
-                }
-            ],
-            "year": "2015",
-            "publisher": [
-                "[KGVG], [Rijen], [2015]"
-            ],
-            "subject-topical": [
-                "Voeding"
-            ],
-            "languages": [
-                "Nederlands"
-            ],
-            "summaries": [
-                "Wist je dat kersen helpen tegen spierpijn? En dat je van paprika goed groeit? Informatie over allerlei soorten groente en fruit. Met stripachtige kleurenillustraties, kleine kleurenfoto's en tekst op rijm. Vanaf ca. 8 t/m 12 jaar."
-            ],
-            "description": [
-                "96 ongenummerde pagina's",
-                "96 ongenummerde pagina's: gekleurde illustraties ; 15 × 21 cm + 1 poster + 10 stickervellen (800 stickers)"
-            ],
-            "note": "Omslagtitel",
-            "undup": {
-                "alsoAvailableAsCount": "0",
-                "items": [
-                    {
-                        "key1": "kids gezonde voeding gids",
-                        "key2": "rocio pol esteban",
-                        "cnt": "1",
-                        "value": "5FA9B6C779F360A0"
-                    }
-                ]
+            {
+                "full": "Joop Witteveen",
+                "lastname": "Joop Witteveen",
+                "creatortype": "organization"
             },
-            "siso": [
-                "J628.1"
+            {
+                "full": "Yvonne Gnirrep",
+                "lastname": "Yvonne Gnirrep",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2006",
+        "publisher": [
+            "Nijgh & Van Ditmar, Amsterdam, 2006"
+        ],
+        "subject-topical": [
+            "Kookboeken",
+            "Nederland",
+            "Geschiedenis",
+            "Tentoonstellingscatalogi"
+        ],
+        "languages": [
+            "Nederlands"
+        ],
+        "description": [
+            "212 p",
+            "212 p: ill ; 22 cm"
+        ],
+        "note": "Uitg. in samenw. met de Bibliotheek van de Universiteit van Amsterdam. - Uitg. ter begeleiding van de gelijknamige tentoonstelling in de Universiteitsbibliotheek in de zomer van 2006",
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
+                {
+                    "key1": "koks keukenmeiden amsterdamse kookboeken uit de gastronomische bibliotheek en de bibliotheek van de universiteit van amsterdam",
+                    "key2": "johannes van dam",
+                    "cnt": "1",
+                    "value": "7CF725F133F360A0"
+                }
             ]
         },
-        {
-            "id": "|oba-catalogus|165857",
-            "frabl": {
-                "key1": "voeding als maatschappelijk verschijnsel",
-                "key2": "apden hartog jgajhautvast",
-                "cnt": "1",
-                "value": "32F1D35902F360A0"
+        "siso": [
+            "906.3"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|1233485",
+        "frabl": {
+            "key1": "de lekkerste vega gerechten vegetarisch voor elk seizoen de leukste bloggers van vega naar vegan de lekkerste kookboeken",
+            "key2": "yvonne doorten eddy haitjema",
+            "cnt": "1",
+            "value": "40AFCCEE6AF360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/Yvonne-Doorten/De-lekkerste-vega-gerechten-vegetarisch-voor/Boek/?itemid=%7coba-catalogus%7c1233485",
+        "titles": [
+            "De lekkerste vega gerechten : vegetarisch voor elk seizoen, de leukste bloggers, van vega naar vegan, de lekkerste kookboeken",
+            "De lekkerste vega gerechten : vegetarisch voor elk seizoen, de leukste bloggers, van vega naar vegan, de lekkerste kookboeken / redactie: Yvonne Doorten, Roxanne van Norde, Emil Rooijackers, Willem van Santen en Martina Silbrníková"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=427898250&isbn=&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/427898250&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+            }
+        ],
+        "authors": [
+            "Yvonne Doorten",
+            "Eddy Haitjema"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "Yvonne Doorten",
+                "lastname": "Yvonne Doorten",
+                "localized-type": "Redacteur",
+                "creatortype": "organization"
             },
-            "detailLink": "http://zoeken.oba.nl/detail/A-P-den-Hartog/Voeding-als-maatschappelijk-verschijnsel/Boek/?itemid=%7coba-catalogus%7c165857",
-            "titles": [
-                "Voeding als maatschappelijk verschijnsel",
-                "Voeding als maatschappelijk verschijnsel / onder redactie van A.P. den Hartog ; met medew. van J.G.A.J. Hautvast ... [et al.]"
-            ],
-            "isbn": [
-                "9031305243 :"
-            ],
-            "coverimages": [
-                "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=82309541X&isbn=9789031305247&lid=&aut=&ti=&size=70",
-                "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/82309541X&token=c1322402"
-            ],
-            "formats": [
+            {
+                "full": "Eddy Haitjema",
+                "lastname": "Eddy Haitjema",
+                "localized-type": "Medewerker",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2020",
+        "publisher": [
+            "F&L Media Food B.V., Nijmegen, [2020]"
+        ],
+        "subject-topical": [
+            "Vegetarische kookboeken",
+            "Veganistische kookboeken"
+        ],
+        "languages": [
+            "Nederlands"
+        ],
+        "description": [
+            "114 pagina's",
+            "114 pagina's: illustraties ; 27 cm"
+        ],
+        "note": "In samenwerking met Vegetariërsbond. - Op omslag: \"foodies en de vegetariërsbond\". - Rugtitel: De lekkerste vega gerechten uit foodies",
+        "series": [
+            {
+                "text": "Foodies, ISSN 1877-1386"
+            }
+        ],
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
                 {
-                    "text": "Boek",
-                    "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
+                    "key1": "de lekkerste vega gerechten vegetarisch voor elk seizoen de leukste bloggers van vega naar vegan de lekkerste kookboeken",
+                    "key2": "yvonne doorten eddy haitjema",
+                    "cnt": "1",
+                    "value": "40AFCCEE6AF360A0"
                 }
-            ],
-            "authors": [
-                "A.P. den Hartog",
-                "J.G.A.J. Hautvast"
-            ],
-            "authorsDetailed": [
-                {
-                    "full": "A.P. den Hartog",
-                    "lastname": "A.P. den Hartog",
-                    "creatortype": "organization"
-                },
-                {
-                    "full": "J.G.A.J. Hautvast",
-                    "lastname": "J.G.A.J. Hautvast",
-                    "creatortype": "organization"
-                }
-            ],
-            "year": "1982",
-            "publisher": [
-                "Utrecht",
-                "Bohn, Scheltema & Holkema, [etc.], 1982"
-            ],
-            "subject-topical": [
-                "Voeding",
-                "Sociologische aspecten"
-            ],
-            "languages": [
-                "Nederlands"
-            ],
-            "summaries": [
-                "Beschrijving van sociale achtergronden van voedselpatronen in het algemeen, in Nederland en in ontwikkelingslanden, waarbij beleidsaanbevelingen"
-            ],
-            "description": [
-                "IX, 307 p",
-                "IX, 307 p: ill ; 22 cm"
-            ],
-            "note": "Met lit. opg., index",
-            "undup": {
-                "alsoAvailableAsCount": "0",
-                "items": [
-                    {
-                        "key1": "voeding als maatschappelijk verschijnsel",
-                        "key2": "apden hartog jgajhautvast",
-                        "cnt": "1",
-                        "value": "32F1D35902F360A0"
-                    }
-                ]
-            },
-            "siso": [
-                "628"
             ]
         },
-        {
-            "id": "|oba-catalogus|1116400",
-            "frabl": {
-                "key1": "alles over sport en voeding inclusief dagmenu s en recepten",
-                "key2": "voedingscentrum",
-                "cnt": "2",
-                "value": "54EDFBA140F360A0"
+        "siso": [
+            "629.4"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|1136085",
+        "frabl": {
+            "key1": "kookboek",
+            "key2": "brigitte carrere",
+            "cnt": "1",
+            "value": "BEF5B8C6CF360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/Brigitte-Carrere/Kookboek/Boek/?itemid=%7coba-catalogus%7c1136085",
+        "titles": [
+            "Kookboek",
+            "Kookboek / recepten en foto's Brigitte Carrère"
+        ],
+        "isbn": [
+            "=9789462102545"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=393575217&isbn=9789462102545&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/393575217&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+            }
+        ],
+        "authors": [
+            "Brigitte Carrère",
+            "William\"",
+            "Christophe Cazenove"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "Brigitte Carrère",
+                "firstname": "Brigitte",
+                "lastname": "Carrère",
+                "localized-type": "Auteur",
+                "creatortype": "person"
             },
-            "detailLink": "http://zoeken.oba.nl/detail/Voedingscentrum/Alles-over-sport-en-voeding-inclusief/Boek/?itemid=%7coba-catalogus%7c1116400",
-            "titles": [
-                "Alles over sport en voeding : inclusief dagmenu's en recepten",
-                "Alles over sport en voeding : inclusief dagmenu's en recepten / Voedingscentrum"
-            ],
-            "isbn": [
-                "=9789051770520"
-            ],
-            "coverimages": [
-                "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=375903348&isbn=9789051770520&lid=&aut=&ti=&size=70",
-                "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/375903348&token=c1322402"
-            ],
-            "formats": [
-                {
-                    "text": "Boek",
-                    "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-                }
-            ],
-            "authors": [
-                "Voedingscentrum"
-            ],
-            "authorsDetailed": [
-                {
-                    "full": "Voedingscentrum",
-                    "lastname": "Voedingscentrum",
-                    "creatortype": "unknown"
-                }
-            ],
-            "year": "2014",
-            "publisher": [
-                "Stichting Voedingscentrum Nederland, Den Haag, [2014]"
-            ],
-            "subject-topical": [
-                "Voeding",
-                "Sport"
-            ],
-            "languages": [
-                "Nederlands"
-            ],
-            "summaries": [
-                "Beknopte informatie over sporten en gezond eten."
-            ],
-            "description": [
-                "130 pagina's",
-                "130 pagina's: illustraties ; 22 cm"
-            ],
-            "note": "Op omslag: Voedingscentrum, eerlijk over eten",
-            "series": [
-                {
-                    "text": "Weet wat je eet"
-                }
-            ],
-            "undup": {
-                "alsoAvailableAsCount": "2",
-                "items": [
-                    {
-                        "key1": "alles over sport en voeding inclusief dagmenu s en recepten",
-                        "key2": "voedingscentrum",
-                        "cnt": "2",
-                        "value": "54EDFBA140F360A0"
-                    }
-                ]
+            {
+                "full": "William\"",
+                "lastname": "William\"",
+                "localized-type": "Kunstenaar",
+                "creatortype": "organization"
             },
-            "siso": [
-                "628.44"
+            {
+                "full": "Christophe Cazenove",
+                "lastname": "Christophe Cazenove",
+                "localized-type": "Auteur",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2015",
+        "publisher": [
+            "Ballon, Antwerpen, [2015]"
+        ],
+        "subject-topical": [
+            "Kookboeken"
+        ],
+        "languages": [
+            "Nederlands",
+            "Frans"
+        ],
+        "summaries": [
+            "Wendy maakt samen met haar zus Marine allerlei gerechten klaar, zoals een bloemenpizza en karamelpudding. De stapsgewijze uitleg van recepten wordt afgewisseld met eenpagina-ballonstrips met expressieve tekeningen. Vanaf ca. 9 jaar."
+        ],
+        "description": [
+            "47 pagina's",
+            "47 pagina's: gekleurde illustraties ; 29 cm"
+        ],
+        "series": [
+            {
+                "text": "Sisters"
+            }
+        ],
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
+                {
+                    "key1": "kookboek",
+                    "key2": "brigitte carrere",
+                    "cnt": "1",
+                    "value": "BEF5B8C6CF360A0"
+                }
             ]
         },
-        {
-            "id": "|oba-catalogus|1125619",
-            "frabl": {
-                "key1": "voeding gedrag van adhd tot zinloos geweld 60 jaar research",
-                "key2": "gert eschuitemaker",
-                "cnt": "1",
-                "value": "1F7DE8AEB9F360A0"
+        "siso": [
+            "J629.2"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|1097927",
+        "frabl": {
+            "key1": "het voedselzandloper kookboek het officiele kookboek",
+            "key2": "pauline weuring",
+            "cnt": "1",
+            "value": "7ABE19FEE1F360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/Pauline-Weuring/Het-voedselzandloper-kookboek-het-officiele/Boek/?itemid=%7coba-catalogus%7c1097927",
+        "titles": [
+            "Het voedselzandloper kookboek : het officiële kookboek",
+            "Het voedselzandloper kookboek : het officiële kookboek / Pauline Weuring [recepten]"
+        ],
+        "isbn": [
+            "9789035141070"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=363222391&isbn=9789035141070&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/363222391&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+            }
+        ],
+        "authors": [
+            "Pauline Weuring",
+            "Kris Verburgh"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "Pauline Weuring",
+                "firstname": "Pauline",
+                "lastname": "Weuring",
+                "creatortype": "person"
             },
-            "detailLink": "http://zoeken.oba.nl/detail/Gert-E-Schuitemaker/Voeding-gedrag-van-ADHD-tot-zinloos-geweld/Boek/?itemid=%7coba-catalogus%7c1125619",
-            "titles": [
-                "Voeding & gedrag : van ADHD tot zinloos geweld : 60 jaar research",
-                "Voeding & gedrag : van ADHD tot zinloos geweld : 60 jaar research / Dr. Gert E. Schuitemaker"
-            ],
-            "isbn": [
-                "=9789076161921"
-            ],
-            "coverimages": [
-                "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=383893771&isbn=9789076161921&lid=&aut=&ti=&size=70",
-                "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/383893771&token=c1322402"
-            ],
-            "formats": [
+            {
+                "full": "Kris Verburgh",
+                "lastname": "Kris Verburgh",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2013",
+        "publisher": [
+            "Prometheus/Bakker, Amsterdam, cop. 2013"
+        ],
+        "subject-topical": [
+            "Kookboeken"
+        ],
+        "languages": [
+            "Nederlands"
+        ],
+        "description": [
+            "207 p",
+            "207 p: ill ; 25 cm"
+        ],
+        "note": "Gebaseerd op De voedselzandloper, van Kris Verburgh. - Met lit. opg",
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
                 {
-                    "text": "Boek",
-                    "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
+                    "key1": "het voedselzandloper kookboek het officiele kookboek",
+                    "key2": "pauline weuring",
+                    "cnt": "1",
+                    "value": "7ABE19FEE1F360A0"
                 }
-            ],
-            "authors": [
-                "Gert E. Schuitemaker",
-                "Toine de Graaf"
-            ],
-            "authorsDetailed": [
-                {
-                    "full": "Gert E. Schuitemaker",
-                    "firstname": "Gert E.",
-                    "lastname": "Schuitemaker",
-                    "localized-type": "Auteur",
-                    "creatortype": "person"
-                },
-                {
-                    "full": "Toine de Graaf",
-                    "lastname": "Toine de Graaf",
-                    "localized-type": "Medewerker",
-                    "creatortype": "organization"
-                }
-            ],
-            "year": "2014",
-            "publisher": [
-                "Ortho Communications & Science BV, [Gendringen], [2014]"
-            ],
-            "subject-topical": [
-                "Voeding",
-                "Gedrag"
-            ],
-            "languages": [
-                "Nederlands"
-            ],
-            "summaries": [
-                "Overzicht van de invloed van voedsel op de gezondheid."
-            ],
-            "description": [
-                "95 pagina's",
-                "95 pagina's ; 20 cm"
-            ],
-            "note": "Met literatuuropgave, register",
-            "undup": {
-                "alsoAvailableAsCount": "0",
-                "items": [
-                    {
-                        "key1": "voeding gedrag van adhd tot zinloos geweld 60 jaar research",
-                        "key2": "gert eschuitemaker",
-                        "cnt": "1",
-                        "value": "1F7DE8AEB9F360A0"
-                    }
-                ]
-            },
-            "siso": [
-                "628.4"
             ]
         },
-        {
-            "id": "|oba-catalogus|1162443",
-            "frabl": {
-                "key1": "het energieke vrouwen voedingskompas verander je voeding verander je hormonen verander je leven",
-                "key2": "marjolein dubbers",
-                "cnt": "1",
-                "value": "5B55C936B0F360A0"
+        "siso": [
+            "629.2"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|1111769",
+        "frabl": {
+            "key1": "het grote kookboek voor kinderen",
+            "key2": "abigail wheatley",
+            "cnt": "1",
+            "value": "7AA1F1A19CF360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/Abigail-Wheatley/Het-grote-kookboek-voor-kinderen/Boek/?itemid=%7coba-catalogus%7c1111769",
+        "titles": [
+            "Het grote kookboek voor kinderen",
+            "Het grote kookboek voor kinderen / Abigail Wheatley"
+        ],
+        "isbn": [
+            "=9789044738803"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=374302456&isbn=9789044738803&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/374302456&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+            }
+        ],
+        "authors": [
+            "Abigail Wheatley",
+            "Nancy Leschnikoff",
+            "Lesley Verlinden"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "Abigail Wheatley",
+                "firstname": "Abigail",
+                "lastname": "Wheatley",
+                "creatortype": "person"
             },
-            "detailLink": "http://zoeken.oba.nl/detail/Marjolein-Dubbers/Het-energieke-vrouwen-voedingskompas/Boek/?itemid=%7coba-catalogus%7c1162443",
-            "titles": [
-                "Het energieke vrouwen voedingskompas : verander je voeding, verander je hormonen, verander je leven",
-                "Het energieke vrouwen voedingskompas : verander je voeding, verander je hormonen, verander je leven / Marjolein Dubbers"
-            ],
-            "isbn": [
-                "=9789021563732",
-                "=9789021563749"
-            ],
-            "coverimages": [
-                "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=405033354&isbn=9789021563732&lid=&aut=&ti=&size=70",
-                "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/405033354&token=c1322402"
-            ],
-            "formats": [
-                {
-                    "text": "Boek",
-                    "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-                }
-            ],
-            "authors": [
-                "Marjolein Dubbers",
-                "Hester Bruning"
-            ],
-            "authorsDetailed": [
-                {
-                    "full": "Marjolein Dubbers",
-                    "firstname": "Marjolein",
-                    "lastname": "Dubbers",
-                    "localized-type": "Auteur",
-                    "creatortype": "person"
-                },
-                {
-                    "full": "Hester Bruning",
-                    "lastname": "Hester Bruning",
-                    "localized-type": "Redacteur",
-                    "creatortype": "organization"
-                }
-            ],
-            "year": "2016",
-            "publisher": [
-                "Kosmos Uitgevers, Utrecht, [2016]"
-            ],
-            "subject-topical": [
-                "Vrouwen",
-                "Gezondheid",
-                "Hormonen",
-                "Voedingsleer"
-            ],
-            "languages": [
-                "Nederlands"
-            ],
-            "description": [
-                "287 pagina's",
-                "287 pagina's: illustraties ; 24 cm"
-            ],
-            "note": "Met literatuuropgave, register",
-            "undup": {
-                "alsoAvailableAsCount": "0",
-                "items": [
-                    {
-                        "key1": "het energieke vrouwen voedingskompas verander je voeding verander je hormonen verander je leven",
-                        "key2": "marjolein dubbers",
-                        "cnt": "1",
-                        "value": "5B55C936B0F360A0"
-                    }
-                ]
+            {
+                "full": "Nancy Leschnikoff",
+                "lastname": "Nancy Leschnikoff",
+                "localized-type": "Illustrator",
+                "creatortype": "organization"
             },
-            "siso": [
-                "628.44"
+            {
+                "full": "Lesley Verlinden",
+                "lastname": "Lesley Verlinden",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2014",
+        "publisher": [
+            "Deltas, Aartselaar, [2014]"
+        ],
+        "subject-topical": [
+            "Kookboeken"
+        ],
+        "languages": [
+            "Nederlands",
+            "Engels"
+        ],
+        "summaries": [
+            "Kookboek voor jonge koks vol toegankelijke recepten voor bv. guacamole, zelfgemaakte pasta, gegrilde fruitspiesjes en tomatentaartjes. Onder begeleiding vanaf ca. 7 jaar, zelf koken vanaf ca. 9 jaar."
+        ],
+        "description": [
+            "128 pagina's",
+            "128 pagina's: illustraties ; 25 cm"
+        ],
+        "note": "Vertaling van: Start to cook. - London : Usborne, 2010",
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
+                {
+                    "key1": "het grote kookboek voor kinderen",
+                    "key2": "abigail wheatley",
+                    "cnt": "1",
+                    "value": "7AA1F1A19CF360A0"
+                }
             ]
         },
-        {
-            "id": "|oba-catalogus|618705",
-            "frabl": {
-                "key1": "mens voeding voedsel voeding en gezondheid voedingsbehoeften voedselkeuze voedingsvoorlichting voedselveiligheid voeding in nederland",
-                "key2": "fhvan der boom binkhorst ehartman apden hartog",
-                "cnt": "1",
-                "value": "551F9AA82EF360A0"
-            },
-            "detailLink": "http://zoeken.oba.nl/detail/F-H-van-der-Boom-Binkhorst/Mens-voeding-voedsel-voeding-en/Boek/?itemid=%7coba-catalogus%7c618705",
-            "titles": [
-                "Mens & voeding : voedsel, voeding en gezondheid, voedingsbehoeften, voedselkeuze, voedingsvoorlichting, voedselveiligheid, voeding in Nederland",
-                "Mens & voeding : voedsel, voeding en gezondheid, voedingsbehoeften, voedselkeuze, voedingsvoorlichting, voedselveiligheid, voeding in Nederland / F.H. van der Boom-Binkhorst ... [et al.]"
-            ],
-            "isbn": [
-                "905574560X"
-            ],
-            "coverimages": [
-                "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=296391778&isbn=9789055745609&lid=&aut=&ti=&size=70",
-                "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/296391778&token=c1322402"
-            ],
-            "formats": [
+        "siso": [
+            "J629.2"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|1158799",
+        "frabl": {
+            "key1": "kookboek",
+            "key2": "jonah freud",
+            "cnt": "1",
+            "value": "AF23BD514F360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/Jonah-Freud/Kookboek/Boek/?itemid=%7coba-catalogus%7c1158799",
+        "titles": [
+            "Kookboek",
+            "Kookboek / hoofdredactie Jonah Freud"
+        ],
+        "isbn": [
+            "=9789082543704"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=405033923&isbn=9789082543704&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/405033923&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+            }
+        ],
+        "authors": [
+            "Jonah Freud"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "Jonah Freud",
+                "lastname": "Jonah Freud",
+                "localized-type": "Redacteur",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2016",
+        "publisher": [
+            "Rijksmuseum, Amsterdam, [2016]"
+        ],
+        "subject-topical": [
+            "Kookboeken"
+        ],
+        "languages": [
+            "Nederlands"
+        ],
+        "summaries": [
+            "Vijftig Hollandse ingrediënten en vijftig recepten van in Nederland werkende koks gaan gepaard met een korte uitleg en passende illustraties van kunstwerken of details daarvan."
+        ],
+        "description": [
+            "599 pagina's",
+            "599 pagina's: illustraties ; 28 cm"
+        ],
+        "note": "Met literatuuropgave, index",
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
                 {
-                    "text": "Boek",
-                    "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
+                    "key1": "kookboek",
+                    "key2": "jonah freud",
+                    "cnt": "1",
+                    "value": "AF23BD514F360A0"
                 }
-            ],
-            "authors": [
-                "F.H. van der Boom-Binkhorst",
-                "E. Hartman",
-                "A.P. den Hartog"
-            ],
-            "authorsDetailed": [
-                {
-                    "full": "F.H. van der Boom-Binkhorst",
-                    "lastname": "F.H. van der Boom-Binkhorst",
-                    "creatortype": "organization"
-                },
-                {
-                    "full": "E. Hartman",
-                    "lastname": "E. Hartman",
-                    "creatortype": "organization"
-                },
-                {
-                    "full": "A.P. den Hartog",
-                    "lastname": "A.P. den Hartog",
-                    "creatortype": "organization"
-                }
-            ],
-            "year": "2006",
-            "publisher": [
-                "HBuitgevers, Baarn, 2006"
-            ],
-            "subject-topical": [
-                "Voedingsleer"
-            ],
-            "languages": [
-                "Nederlands"
-            ],
-            "summaries": [
-                "Studieboek voor het hoger beroepsonderwijs."
-            ],
-            "description": [
-                "XII, 348 p",
-                "XII, 348 p: ill., krt ; 28 cm"
-            ],
-            "undup": {
-                "alsoAvailableAsCount": "0",
-                "items": [
-                    {
-                        "key1": "mens voeding voedsel voeding en gezondheid voedingsbehoeften voedselkeuze voedingsvoorlichting voedselveiligheid voeding in nederland",
-                        "key2": "fhvan der boom binkhorst ehartman apden hartog",
-                        "cnt": "1",
-                        "value": "551F9AA82EF360A0"
-                    }
-                ]
-            },
-            "siso": [
-                "628.4"
             ]
         },
-        {
-            "id": "|oba-catalogus|1162586",
-            "frabl": {
-                "key1": "voeding en dementie gezondheid en genieten in 1 recept",
-                "key2": "jeroen wapenaar",
-                "cnt": "1",
-                "value": "461731F0D2F360A0"
-            },
-            "detailLink": "http://zoeken.oba.nl/detail/Jeroen-Wapenaar/Voeding-en-dementie-gezondheid-en-genieten/Boek/?itemid=%7coba-catalogus%7c1162586",
-            "titles": [
-                "Voeding en dementie : gezondheid en genieten in 1 recept",
-                "Voeding en dementie : gezondheid en genieten in 1 recept / Jeroen Wapenaar, Ondine van de Rest"
-            ],
-            "isbn": [
-                "=9789086862894"
-            ],
-            "coverimages": [
-                "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=407073663&isbn=9789086862894&lid=&aut=&ti=&size=70",
-                "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/407073663&token=c1322402"
-            ],
-            "formats": [
+        "siso": [
+            "629.2"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|1161441",
+        "frabl": {
+            "key1": "lekker uitpakken kookboek voor kinderen",
+            "key2": "karin luiten",
+            "cnt": "1",
+            "value": "6CCF5430EBF360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/Karin-Luiten/Lekker-uitpakken!-kookboek-voor-kinderen/Boek/?itemid=%7coba-catalogus%7c1161441",
+        "titles": [
+            "Lekker uitpakken! : kookboek voor kinderen",
+            "Lekker uitpakken! : kookboek voor kinderen / Karin Luiten"
+        ],
+        "isbn": [
+            "=9789021676708"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=404324266&isbn=9789021676708&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/404324266&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+            }
+        ],
+        "authors": [
+            "Karin Luiten"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "Karin Luiten",
+                "firstname": "Karin",
+                "lastname": "Luiten",
+                "localized-type": "Auteur",
+                "creatortype": "person"
+            }
+        ],
+        "year": "2016",
+        "publisher": [
+            "Ploegsma, Amsterdam, [2016]"
+        ],
+        "subject-topical": [
+            "Kookboeken"
+        ],
+        "languages": [
+            "Nederlands"
+        ],
+        "summaries": [
+            "Heb je trek in blote loempiaatjes, een Turkse pizza of kokospiramides? Deze en andere recepten voor allerlei gerechten worden stap voor stap uitgelegd. Met eetweetjes, kleurenfoto's en grappige kleurenillustraties. Met hulp vanaf ca. 7 jaar, zelfstandig vanaf ca. 10 jaar."
+        ],
+        "description": [
+            "124 pagina's",
+            "124 pagina's: gekleurde illustraties ; 21 cm"
+        ],
+        "note": "Met register",
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
                 {
-                    "text": "Boek",
-                    "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
+                    "key1": "lekker uitpakken kookboek voor kinderen",
+                    "key2": "karin luiten",
+                    "cnt": "1",
+                    "value": "6CCF5430EBF360A0"
                 }
-            ],
-            "authors": [
-                "Jeroen Wapenaar",
-                "Ondine van de Rest"
-            ],
-            "authorsDetailed": [
-                {
-                    "full": "Jeroen Wapenaar",
-                    "firstname": "Jeroen",
-                    "lastname": "Wapenaar",
-                    "localized-type": "Auteur",
-                    "creatortype": "person"
-                },
-                {
-                    "full": "Ondine van de Rest",
-                    "lastname": "Ondine van de Rest",
-                    "localized-type": "Auteur",
-                    "creatortype": "organization"
-                }
-            ],
-            "year": "2016",
-            "publisher": [
-                "Wageningen Academic Publishers, Wageningen, 2016"
-            ],
-            "subject-topical": [
-                "Voeding",
-                "Dementerenden"
-            ],
-            "languages": [
-                "Nederlands"
-            ],
-            "summaries": [
-                "Mensen met dementie hebben soms geen zin meer in eten en drinken, dit boek laat met praktische aanpassingen zien hoe je het toch een positieve wending kunt geven."
-            ],
-            "description": [
-                "152 pagina's",
-                "152 pagina's: illustraties ; 21 cm"
-            ],
-            "note": "Met literatuuropgave",
-            "undup": {
-                "alsoAvailableAsCount": "0",
-                "items": [
-                    {
-                        "key1": "voeding en dementie gezondheid en genieten in 1 recept",
-                        "key2": "jeroen wapenaar",
-                        "cnt": "1",
-                        "value": "461731F0D2F360A0"
-                    }
-                ]
-            },
-            "siso": [
-                "606.15"
             ]
-        }
-    ]
-}
+        },
+        "siso": [
+            "J629.2"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|1169990",
+        "frabl": {
+            "key1": "chickslovefood het kidsproof kookboek",
+            "key2": "elise gruppen",
+            "cnt": "1",
+            "value": "1CE704147DF360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/Elise-Gruppen/Chickslovefood-het-kidsproof-kookboek/Boek/?itemid=%7coba-catalogus%7c1169990",
+        "titles": [
+            "Chickslovefood : het kidsproof-kookboek",
+            "Chickslovefood : het kidsproof-kookboek / Elise Gruppen en Nina de Bruijn"
+        ],
+        "isbn": [
+            "=9789000355518"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=408189061&isbn=9789000355518&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/408189061&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+            }
+        ],
+        "authors": [
+            "Elise Gruppen",
+            "Nina de Bruijn"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "Elise Gruppen",
+                "firstname": "Elise",
+                "lastname": "Gruppen",
+                "localized-type": "Auteur",
+                "creatortype": "person"
+            },
+            {
+                "full": "Nina de Bruijn",
+                "lastname": "Nina de Bruijn",
+                "localized-type": "Auteur",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2017",
+        "publisher": [
+            "Spectrum, Houten, 2017"
+        ],
+        "subject-topical": [
+            "Kookboeken"
+        ],
+        "languages": [
+            "Nederlands"
+        ],
+        "description": [
+            "144 pagina's",
+            "144 pagina's: illustraties ; 22 cm"
+        ],
+        "note": "Met register",
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
+                {
+                    "key1": "chickslovefood het kidsproof kookboek",
+                    "key2": "elise gruppen",
+                    "cnt": "1",
+                    "value": "1CE704147DF360A0"
+                }
+            ]
+        },
+        "siso": [
+            "629.2"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|1132182",
+        "frabl": {
+            "key1": "het ketnet stap voor stap kookboek met hannes",
+            "key2": "hannes",
+            "cnt": "1",
+            "value": "2FBA100131F360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/Hannes%22/Het-Ketnet-stap-voor-stap-kookboek-met-Hannes/Boek/?itemid=%7coba-catalogus%7c1132182",
+        "titles": [
+            "Het Ketnet stap-voor-stap kookboek met Hannes",
+            "Het Ketnet stap-voor-stap kookboek met Hannes / foto's Ann De Koker en Shutterstock"
+        ],
+        "isbn": [
+            "=9789401424752"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=391589318&isbn=9789401424752&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/391589318&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+            }
+        ],
+        "authors": [
+            "Hannes\"",
+            "Ann De Koker"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "Hannes\"",
+                "lastname": "Hannes\"",
+                "localized-type": "Auteur",
+                "creatortype": "person"
+            },
+            {
+                "full": "Ann De Koker",
+                "lastname": "Ann De Koker",
+                "localized-type": "Illustrator",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2015",
+        "publisher": [
+            "[Brussel]",
+            "Ketnet, [Tielt]",
+            "Lannoo, [2015]"
+        ],
+        "subject-topical": [
+            "Kookboeken"
+        ],
+        "languages": [
+            "Nederlands"
+        ],
+        "summaries": [
+            "Maak zelf worstenbroodjes, stoofvlees of chocolademouse. Stapsgewijze uitleg met kleine kleurenfoto's van hapjes, hoofdgerechten en toetjes. Met wat hulp vanaf ca. 8 t/m 12 jaar."
+        ],
+        "description": [
+            "70 pagina's",
+            "70 pagina's: illustraties ; 25 cm"
+        ],
+        "note": "Rugtitel: Stap-voor-stap kookboek met Hannes",
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
+                {
+                    "key1": "het ketnet stap voor stap kookboek met hannes",
+                    "key2": "hannes",
+                    "cnt": "1",
+                    "value": "2FBA100131F360A0"
+                }
+            ]
+        },
+        "siso": [
+            "J629.2"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|1118673",
+        "frabl": {
+            "key1": "chickslovefood het 5 or less kookboek",
+            "key2": "nina de bruijn",
+            "cnt": "1",
+            "value": "3A70654B8DF360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/Nina-de-Bruijn/Chickslovefood-het-5-or-less-kookboek/Boek/?itemid=%7coba-catalogus%7c1118673",
+        "titles": [
+            "Chickslovefood : het 5 or less-kookboek",
+            "Chickslovefood : het 5 or less-kookboek / Nina de Bruijn & Elise Gruppen"
+        ],
+        "isbn": [
+            "=9789046817407"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=37290193X&isbn=9789046817407&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/37290193X&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+            }
+        ],
+        "authors": [
+            "Nina de Bruijn",
+            "Elise Gruppen",
+            "Harold Pereira"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "Nina de Bruijn",
+                "firstname": "Nina",
+                "lastname": "Bruijn",
+                "localized-type": "Auteur",
+                "creatortype": "person"
+            },
+            {
+                "full": "Elise Gruppen",
+                "lastname": "Elise Gruppen",
+                "localized-type": "Auteur",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Harold Pereira",
+                "lastname": "Harold Pereira",
+                "localized-type": "Fotograaf",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2014",
+        "publisher": [
+            "Nw A'dam, [Amsterdam], [2014]"
+        ],
+        "subject-topical": [
+            "Kookboeken"
+        ],
+        "languages": [
+            "Nederlands"
+        ],
+        "description": [
+            "143 pagina's",
+            "143 pagina's: illustraties ; 24 cm"
+        ],
+        "note": "Ondertitel op omslag: simpele en gezonde recepten met maximaal 5 ingredïOënten. - Met index",
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
+                {
+                    "key1": "chickslovefood het 5 or less kookboek",
+                    "key2": "nina de bruijn",
+                    "cnt": "1",
+                    "value": "3A70654B8DF360A0"
+                }
+            ]
+        },
+        "siso": [
+            "629.2"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|1139702",
+        "frabl": {
+            "key1": "chickslovefood het skinny six kookboek voor onze grote en kleine mannen",
+            "key2": "elise gruppen",
+            "cnt": "1",
+            "value": "C0D2D9010F360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/Elise-Gruppen/Chickslovefood-het-skinny-six-kookboek/Boek/?itemid=%7coba-catalogus%7c1139702",
+        "titles": [
+            "Chickslovefood : het skinny six-kookboek : voor onze grote én kleine mannen :-)",
+            "Chickslovefood : het skinny six-kookboek : voor onze grote én kleine mannen :-) / Elise Gruppen en Nina de Bruijn"
+        ],
+        "isbn": [
+            "=9789046820094"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=393762807&isbn=9789046820094&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/393762807&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+            }
+        ],
+        "authors": [
+            "Elise Gruppen",
+            "Nina de Bruijn",
+            "Mariët Mons"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "Elise Gruppen",
+                "firstname": "Elise",
+                "lastname": "Gruppen",
+                "localized-type": "Auteur",
+                "creatortype": "person"
+            },
+            {
+                "full": "Nina de Bruijn",
+                "lastname": "Nina de Bruijn",
+                "localized-type": "Auteur",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Mariët Mons",
+                "lastname": "Mariët Mons",
+                "localized-type": "Illustrator",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2015",
+        "publisher": [
+            "Nw A'dam, [Amsterdam], september 2015"
+        ],
+        "subject-topical": [
+            "Kookboeken"
+        ],
+        "languages": [
+            "Nederlands"
+        ],
+        "summaries": [
+            "Kookboek van populaire foodbloggers voor simpele gerechten met maximaal zes ingrediënten."
+        ],
+        "description": [
+            "144 pagina's",
+            "144 pagina's: illustraties ; 24 cm"
+        ],
+        "note": "Ondertitel op omslag: simpele en skinny recepten met maximaal 6 ingrediënten. - Met index",
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
+                {
+                    "key1": "chickslovefood het skinny six kookboek voor onze grote en kleine mannen",
+                    "key2": "elise gruppen",
+                    "cnt": "1",
+                    "value": "C0D2D9010F360A0"
+                }
+            ]
+        },
+        "siso": [
+            "629.2"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|1177427",
+        "frabl": {
+            "key1": "chickslovefood het daily dinner kookboek 100 avondeten met maar 5 ingredienten 5 or less",
+            "key2": "nina de bruijn",
+            "cnt": "1",
+            "value": "58F6EED099F360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/Nina-de-Bruijn/Chickslovefood-het-daily-dinner-kookboek/Boek/?itemid=%7coba-catalogus%7c1177427",
+        "titles": [
+            "Chickslovefood : het daily dinner-kookboek : 100× avondeten met maar 5 ingrediënten : 5 or less",
+            "Chickslovefood : het daily dinner-kookboek : 100× avondeten met maar 5 ingrediënten : 5 or less / receptfotografie: Sven Benjamins"
+        ],
+        "isbn": [
+            "=9789000359448"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=41091679X&isbn=9789000359448&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/41091679X&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+            }
+        ],
+        "authors": [
+            "Nina de Bruijn",
+            "Elise Gruppen",
+            "Sven Benjamins"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "Nina de Bruijn",
+                "firstname": "Nina",
+                "lastname": "Bruijn",
+                "localized-type": "Auteur",
+                "creatortype": "person"
+            },
+            {
+                "full": "Elise Gruppen",
+                "lastname": "Elise Gruppen",
+                "localized-type": "Auteur",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Sven Benjamins",
+                "lastname": "Sven Benjamins",
+                "localized-type": "Illustrator",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2017",
+        "publisher": [
+            "Spectrum, Houten, 2017"
+        ],
+        "subject-topical": [
+            "Kookboeken"
+        ],
+        "languages": [
+            "Nederlands"
+        ],
+        "description": [
+            "152 pagina's",
+            "152 pagina's: foto's ; 24 cm"
+        ],
+        "note": "Met register",
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
+                {
+                    "key1": "chickslovefood het daily dinner kookboek 100 avondeten met maar 5 ingredienten 5 or less",
+                    "key2": "nina de bruijn",
+                    "cnt": "1",
+                    "value": "58F6EED099F360A0"
+                }
+            ]
+        },
+        "siso": [
+            "629.2"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|1181982",
+        "frabl": {
+            "key1": "amsterdam kookboek recepten verhalen",
+            "key2": "laura de grave",
+            "cnt": "1",
+            "value": "1CEDB28235F360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/Laura-de-Grave/Amsterdam-kookboek-recepten-verhalen/Boek/?itemid=%7coba-catalogus%7c1181982",
+        "titles": [
+            "Amsterdam kookboek : recepten & verhalen",
+            "Amsterdam kookboek : recepten & verhalen / tekst en concept Laura de Grave"
+        ],
+        "isbn": [
+            "=9789492037695"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=411093916&isbn=9789492037695&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/411093916&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+            }
+        ],
+        "authors": [
+            "Laura de Grave",
+            "Hans de Kort"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "Laura de Grave",
+                "firstname": "Laura",
+                "lastname": "Grave",
+                "localized-type": "Auteur",
+                "creatortype": "person"
+            },
+            {
+                "full": "Hans de Kort",
+                "lastname": "Hans de Kort",
+                "localized-type": "Illustrator",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2017",
+        "publisher": [
+            "Uitgeverij Brandt, Amsterdam, 2017"
+        ],
+        "subject-topical": [
+            "Kookboeken",
+            "Gastronomie",
+            "Amsterdam"
+        ],
+        "languages": [
+            "Nederlands"
+        ],
+        "description": [
+            "191 pagina's",
+            "191 pagina's: illustraties ; 26 cm"
+        ],
+        "note": "Met literatuuropgave, register",
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
+                {
+                    "key1": "amsterdam kookboek recepten verhalen",
+                    "key2": "laura de grave",
+                    "cnt": "1",
+                    "value": "1CEDB28235F360A0"
+                }
+            ]
+        },
+        "siso": [
+            "629.2"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|1222096",
+        "frabl": {
+            "key1": "chickslovefood het quick dinners kookboek avondeten met 5 ingredienten in 10 20 en 30 minuten",
+            "key2": "nina",
+            "cnt": "1",
+            "value": "2AAE517285F360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/Nina/Chickslovefood-het-quick-dinners-kookboek/Boek/?itemid=%7coba-catalogus%7c1222096",
+        "titles": [
+            "Chickslovefood : het quick dinners-kookboek : avondeten met 5 ingrediënten in 10, 20 en 30 minuten",
+            "Chickslovefood : het quick dinners-kookboek : avondeten met 5 ingrediënten in 10, 20 en 30 minuten / by Nina & Elise"
+        ],
+        "isbn": [
+            "=9789082859829"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=423040731&isbn=9789082859829&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/423040731&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+            }
+        ],
+        "authors": [
+            "Nina",
+            "Elise",
+            "Annabelle Vandenbussche",
+            "Sara van Toor"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "Nina",
+                "lastname": "Nina",
+                "localized-type": "Auteur",
+                "creatortype": "person"
+            },
+            {
+                "full": "Elise",
+                "lastname": "Elise",
+                "localized-type": "Auteur",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Annabelle Vandenbussche",
+                "lastname": "Annabelle Vandenbussche",
+                "localized-type": "Illustrator",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Sara van Toor",
+                "lastname": "Sara van Toor",
+                "localized-type": "Redacteur",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2019",
+        "publisher": [
+            "CLF Media, [Leiderdorp], september 2019"
+        ],
+        "subject-topical": [
+            "Kookboeken"
+        ],
+        "languages": [
+            "Nederlands"
+        ],
+        "description": [
+            "144 pagina's",
+            "144 pagina's: illustraties ; 24 cm"
+        ],
+        "note": "Met register",
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
+                {
+                    "key1": "chickslovefood het quick dinners kookboek avondeten met 5 ingredienten in 10 20 en 30 minuten",
+                    "key2": "nina",
+                    "cnt": "1",
+                    "value": "2AAE517285F360A0"
+                }
+            ]
+        },
+        "siso": [
+            "629.2"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|1213434",
+        "frabl": {
+            "key1": "pioppi het kookboek",
+            "key2": "aseem malhotra",
+            "cnt": "1",
+            "value": "72912470C3F360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/Aseem-Malhotra/Pioppi-het-kookboek/Boek/?itemid=%7coba-catalogus%7c1213434",
+        "titles": [
+            "Pioppi : hét kookboek",
+            "Pioppi : hét kookboek / Dr. Aseem Malhotra, Donal O'Neill & Nora French"
+        ],
+        "isbn": [
+            "=9789045217529"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=419862455&isbn=9789045217529&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/419862455&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+            }
+        ],
+        "authors": [
+            "Aseem Malhotra",
+            "Donal O'Neill",
+            "Nora French",
+            "Simone de Clercq"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "Aseem Malhotra",
+                "firstname": "Aseem",
+                "lastname": "Malhotra",
+                "localized-type": "Auteur",
+                "creatortype": "person"
+            },
+            {
+                "full": "Donal O'Neill",
+                "lastname": "Donal O'Neill",
+                "localized-type": "Auteur",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Nora French",
+                "lastname": "Nora French",
+                "localized-type": "Auteur",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Simone de Clercq",
+                "lastname": "Simone de Clercq",
+                "localized-type": "Redacteur",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2019",
+        "publisher": [
+            "Karakter Uitgevers B.V., Uithoorn, [2019]"
+        ],
+        "subject-topical": [
+            "Kookboeken"
+        ],
+        "languages": [
+            "Nederlands"
+        ],
+        "description": [
+            "199 pagina's",
+            "199 pagina's: illustraties ; 25 cm"
+        ],
+        "note": "Ondertitel op omslag: Val af, voel je goed en verminder het risico op diabetes type-2 en hartaandoeningen. - Met register",
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
+                {
+                    "key1": "pioppi het kookboek",
+                    "key2": "aseem malhotra",
+                    "cnt": "1",
+                    "value": "72912470C3F360A0"
+                }
+            ]
+        },
+        "siso": [
+            "629.2"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|1161322",
+        "frabl": {
+            "key1": "chickslovefood het meal planning kookboek",
+            "key2": "elise gruppen",
+            "cnt": "1",
+            "value": "60A46DDDCBF360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/Elise-Gruppen/Chickslovefood-het-meal-planning-kookboek/Boek/?itemid=%7coba-catalogus%7c1161322",
+        "titles": [
+            "Chickslovefood : het meal planning kookboek",
+            "Chickslovefood : het meal planning kookboek / Nina de Bruijn & Elise Gruppen"
+        ],
+        "isbn": [
+            "=9789046821312"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=404172415&isbn=9789046821312&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/404172415&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+            }
+        ],
+        "authors": [
+            "Elise Gruppen",
+            "Nina de Bruijn",
+            "Harold Pereira",
+            "Mariët Mons"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "Elise Gruppen",
+                "firstname": "Elise",
+                "lastname": "Gruppen",
+                "localized-type": "Auteur",
+                "creatortype": "person"
+            },
+            {
+                "full": "Nina de Bruijn",
+                "lastname": "Nina de Bruijn",
+                "localized-type": "Auteur",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Harold Pereira",
+                "lastname": "Harold Pereira",
+                "localized-type": "Illustrator",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Mariët Mons",
+                "lastname": "Mariët Mons",
+                "localized-type": "Illustrator",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2016",
+        "publisher": [
+            "Nw A'dam, [Amsterdam], [2016]"
+        ],
+        "subject-topical": [
+            "Kookboeken"
+        ],
+        "languages": [
+            "Nederlands"
+        ],
+        "description": [
+            "144 pagina's",
+            "144 pagina's: illustraties ; 24 cm"
+        ],
+        "note": "Ondertitel op omslag: simpele recepten met maximaal 5 ingrediënten die je van tevoren klaar kunt maken. - Met index",
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
+                {
+                    "key1": "chickslovefood het meal planning kookboek",
+                    "key2": "elise gruppen",
+                    "cnt": "1",
+                    "value": "60A46DDDCBF360A0"
+                }
+            ]
+        },
+        "siso": [
+            "629.2"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|1132913",
+        "frabl": {
+            "key1": "ella s kitchen het kookboek 100 inspirerende recepten voor kleine en grote chefs",
+            "key2": "marielle steinpatz henley on thames ella s kitchen",
+            "cnt": "1",
+            "value": "20F40491C6F360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/Marielle-Steinpatz/Ella%27s-kitchen-het-kookboek-100/Boek/?itemid=%7coba-catalogus%7c1132913",
+        "titles": [
+            "Ella's kitchen, het kookboek : 100 inspirerende recepten voor kleine en grote chefs",
+            "Ella's kitchen, het kookboek : 100 inspirerende recepten voor kleine en grote chefs / vertaling [uit het Engels]: Mariëlle Steinpatz"
+        ],
+        "isbn": [
+            "=9789045207490"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=383465427&isbn=9789045207490&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/383465427&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+            }
+        ],
+        "authors": [
+            "Mariëlle Steinpatz",
+            "Henley-on-Thames Ella's Kitchen"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "Mariëlle Steinpatz",
+                "lastname": "Mariëlle Steinpatz",
+                "localized-type": "Vertaler",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Henley-on-Thames Ella's Kitchen",
+                "firstname": "Henley-on-Thames",
+                "lastname": "Ella's Kitchen",
+                "localized-type": "Auteur",
+                "creatortype": "unknown"
+            }
+        ],
+        "year": "2015",
+        "publisher": [
+            "Karakter Uitgevers B.V., [Uithoorn], [2015]"
+        ],
+        "subject-topical": [
+            "Kookboeken",
+            "Kindervoeding"
+        ],
+        "languages": [
+            "Nederlands",
+            "Engels"
+        ],
+        "summaries": [
+            "Behalve ruim honderd recepten zijn tips opgenomen om jonge kinderen kennis te laten maken met de smaken, kleuren en texturen van voedsel.. - Ruim honderd recepten voor baby's, peuters en kleuters worden puntsgewijs uitgelegd. Met veel tips om kinderen kennis te laten maken met o.a. de smaken van voedsel. Voor opvoeders van kinderen van ca. 1 t/m 6 jaar, die bij de bereiding kunnen helpen."
+        ],
+        "description": [
+            "191 pagina's, 1 stickervelblad",
+            "191 pagina's, 1 stickervelblad: illustraties ; 27 cm"
+        ],
+        "note": "Vertaling van: The first foods book. - London : Hamlyn, 2013",
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
+                {
+                    "key1": "ella s kitchen het kookboek 100 inspirerende recepten voor kleine en grote chefs",
+                    "key2": "marielle steinpatz henley on thames ella s kitchen",
+                    "cnt": "1",
+                    "value": "20F40491C6F360A0"
+                }
+            ]
+        },
+        "siso": [
+            "J628.44"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|1233347",
+        "frabl": {
+            "key1": "kookboek de lekkerste gerechten voor kinderen",
+            "key2": "rene noorderveen",
+            "cnt": "1",
+            "value": "673B70637FF360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/Rene-Noorderveen/Kookboek-de-lekkerste-gerechten-voor-kinderen/Boek/?itemid=%7coba-catalogus%7c1233347",
+        "titles": [
+            "Kookboek : de lekkerste gerechten voor kinderen",
+            "Kookboek : de lekkerste gerechten voor kinderen / geschreven door René Noorderveen en getekend door Anet van de Vorst"
+        ],
+        "isbn": [
+            "=9789492901606"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=424442337&isbn=9789492901606&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/424442337&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+            }
+        ],
+        "authors": [
+            "René Noorderveen",
+            "Anet van de Vorst"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "René Noorderveen",
+                "firstname": "René",
+                "lastname": "Noorderveen",
+                "localized-type": "Auteur",
+                "creatortype": "person"
+            },
+            {
+                "full": "Anet van de Vorst",
+                "lastname": "Anet van de Vorst",
+                "localized-type": "Illustrator",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2020",
+        "publisher": [
+            "Witte Leeuw, Amsterdam, 2020"
+        ],
+        "subject-topical": [
+            "Kookboeken"
+        ],
+        "languages": [
+            "Nederlands"
+        ],
+        "summaries": [
+            "Fien (6) en haar broertje Teun (4) beleven allerlei avonturen op de boerderij. Samen met hun papa en mama maken ze lekkere dingen, zoals groentesoep en frietjes met appelmoes. Veertien voorleesverhaaltjes, elk voorzien van een recept dat stapsgewijs, met kleurenillustraties, wordt uitgelegd. Om samen te lezen en te koken met kinderen van ca. 3 t/m 8 jaar."
+        ],
+        "description": [
+            "61 pagina's",
+            "61 pagina's: gekleurde illustraties ; 26 cm"
+        ],
+        "series": [
+            {
+                "text": "Fien & Teun"
+            }
+        ],
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
+                {
+                    "key1": "kookboek de lekkerste gerechten voor kinderen",
+                    "key2": "rene noorderveen",
+                    "cnt": "1",
+                    "value": "673B70637FF360A0"
+                }
+            ]
+        },
+        "siso": [
+            "J629.2"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|1033953",
+        "frabl": {
+            "key1": "ottolenghi het kookboek",
+            "key2": "yotam ottolenghi",
+            "cnt": "1",
+            "value": "784EFB07AFF360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/Yotam-Ottolenghi/Ottolenghi-het-kookboek/Boek/?itemid=%7coba-catalogus%7c1033953",
+        "titles": [
+            "Ottolenghi : het kookboek",
+            "Ottolenghi : het kookboek / Yotam Ottolenghi, Sami Tamimi"
+        ],
+        "isbn": [
+            "9789059564282"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=338540814&isbn=9789059564282&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/338540814&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+            }
+        ],
+        "authors": [
+            "Yotam Ottolenghi",
+            "Sami Tamimi",
+            "Richard Learoyd",
+            "Hennie Franssen"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "Yotam Ottolenghi",
+                "firstname": "Yotam",
+                "lastname": "Ottolenghi",
+                "creatortype": "person"
+            },
+            {
+                "full": "Sami Tamimi",
+                "lastname": "Sami Tamimi",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Richard Learoyd",
+                "lastname": "Richard Learoyd",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Hennie Franssen",
+                "lastname": "Hennie Franssen",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2012",
+        "publisher": [
+            "Fontaine, s-Graveland, 2012"
+        ],
+        "subject-topical": [
+            "Kookboeken"
+        ],
+        "languages": [
+            "Nederlands",
+            "Engels"
+        ],
+        "description": [
+            "303 p",
+            "303 p: ill ; 28 cm"
+        ],
+        "note": "Vert. van Ottolenghi : the cookbook. - London : Ebury, 2008",
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
+                {
+                    "key1": "ottolenghi het kookboek",
+                    "key2": "yotam ottolenghi",
+                    "cnt": "1",
+                    "value": "784EFB07AFF360A0"
+                }
+            ]
+        },
+        "siso": [
+            "629.2"
+        ]
+    }
+]
