@@ -14,6 +14,7 @@ const url = `${cors}${endpoint}${query}&authorization=${key}&detaillevel=${detai
 export const display = document.getElementById('itemList');
 display.textContent = "Loading...";
 
+const SuggestionArray = [];
 export const itemArray = [];
 export function getData() {
     fetch(url)
@@ -34,13 +35,12 @@ export function getData() {
             })
             renderData();
         })
-
         .catch(() => {
             fetch('../src/data.json')
                 .then(response => response.json())
                 .then(response => {
                     console.log(response);
-                    response.results.forEach(item => {
+                    response.forEach(item => {
                         itemArray.push({
                             id: item.id,
                             title: item.titles[1],
@@ -48,8 +48,14 @@ export function getData() {
                             img: item.coverimages[1],
                             desc: item.description[0],
                             link: item.detailLink
-                        });
+                        })
+
+                        SuggestionArray.push({
+                            title: item.titles[1],
+                            author: item.authors[1]
+                        })
                     })
+                    console.log(SuggestionArray);
                     renderData();
                 })
                 .catch(err => console.error(err));
