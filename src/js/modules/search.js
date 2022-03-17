@@ -9,12 +9,12 @@ function search() {
     //search on input
     let search = itemArray.filter(function (d) {
       return (
-        d.title[0].toLowerCase().includes(input.value.toLowerCase()) ||
+        d.title.toLowerCase().includes(input.value.toLowerCase()) ||
         d.author[0].toLowerCase().includes(input.value.toLowerCase())
       );
     });
   
-    if (search.length == 0) {
+    if (search.length === 0) {
       display.innerHTML = '<p id="searchError">geen resultaten gevonden voor <span>' + input.value + '</span></p>';
     }
   
