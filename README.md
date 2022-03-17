@@ -1,20 +1,18 @@
-# Frontend-Applications
+# OBA
 
 ### Table of contents
 Assignment<br />
-[Where is this repository for?](https://github.com/ROEL2407/Rijksmuseum_overzicht#where-is-this-repository-for)<br />
-[What's the goal of this repository?](https://github.com/ROEL2407/Rijksmuseum_overzicht#whats-the-goal-of-this-repository)
+[Where is this repository for?](https://github.com/ROEL2407/OBA#where-is-this-repository-for)<br />
+[What's the goal of this repository?](https://github.com/ROEL2407/OBA#whats-the-goal-of-this-repository)
 
 Project<br />
-[Usage](https://github.com/ROEL2407/Rijksmuseum_overzicht#usage)<br />
-[Example images](https://github.com/ROEL2407/Rijksmuseum_overzicht#example-images)<br />
-[Installation](https://github.com/ROEL2407/Rijksmuseum_overzicht#installation)<br />
-[Online version](https://github.com/ROEL2407/Rijksmuseum_overzicht#online-version)<br />
-[Activity Diagram](https://github.com/ROEL2407/Rijksmuseum_overzicht#activity-diagrams)<br />
-[Rubric](https://github.com/ROEL2407/Rijksmuseum_overzicht#rubric)<br />
-[Commits](https://github.com/ROEL2407/Rijksmuseum_overzicht#commits)<br />
-[Resources](https://github.com/ROEL2407/Rijksmuseum_overzicht#resources)<br />
-[License](https://github.com/ROEL2407/Rijksmuseum_overzicht#license)
+[Usage](https://github.com/ROEL2407/OBA#usage)<br />
+[Example images](https://github.com/ROEL2407/OBA#example-images)<br />
+[Installation](https://github.com/ROEL2407/OBA#installation)<br />
+[Online version](https://github.com/ROEL2407/OBA#online-version)<br />
+[Commits](https://github.com/ROEL2407/OBA#commits)<br />
+[Resources](https://github.com/ROEL2407/OBA#resources)<br />
+[License](https://github.com/ROEL2407/OBA#license)
 
 ## Where is this repository for?
 This repository is for my lessons from the minor Web Development from the HvA. 
@@ -26,7 +24,7 @@ In this repository I've made a overview of cooking books from the OBA. My goal o
 With this application you can look through some of the cooking books OBA has to offer. You can get more information about the pieces and make your own perspectives on it. You can also search within these items.
 
 ## Example images
-<img src="https://github.com/ROEL2407/Rijksmuseum_overzicht/blob/main/wiki_images/voorbeeld.PNG">
+<img src="https://github.com/ROEL2407/OBA/blob/main/wiki_images/voorbeeld.PNG">
 
 ## Installation
 Clone this repository to your own device:
