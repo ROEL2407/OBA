@@ -70,6 +70,7 @@ header a {
     z-index: 1;
     background-color: rgba(255, 255, 255, 0.5);
     min-height: 88.5vh;
+    padding-bottom: 1em;
 }
 
 .book {
