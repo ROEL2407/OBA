@@ -1,11 +1,8 @@
-import {
-    makeItems
-} from './create.js';
-import {
-    display,
-    itemArray,
-    SuggestionArray
-} from './fetch.js';
+import { makeItems } from './create.js';
+import { display, itemArray, SuggestionArray } from './fetch.js';
+import { searchError } from './state.js';
+
+
 
 
 // function search() {
@@ -80,7 +77,7 @@ function search() {
     });
 
     if (search.length === 0) {
-        display.innerHTML = '<p id="searchError">geen resultaten gevonden voor <span>' + input.value + '</span></p>';
+        searchError();
     }
 
     console.log(search);

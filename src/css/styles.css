@@ -148,6 +148,8 @@ form button {
 #searchError {
     text-align: center;
     margin-top: 1em;
+    width: 100%;
+    position: absolute;
 }
 
 #searchError span {
