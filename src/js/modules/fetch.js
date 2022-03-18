@@ -32,7 +32,7 @@ export function getData() {
                     img: item.coverimages[1],
                     desc: item.description[0],
                     link: item.detailLink,
-                    subject: item.subject
+                    subject: item["subject-topical"]
                 });
 
                 SuggestionArray.push({
@@ -55,7 +55,7 @@ export function getData() {
                             img: item.coverimages[1],
                             desc: item.description[0],
                             link: item.detailLink,
-                            subject: item.subject
+                            subject: item["subject-topical"]
                         });
 
                         SuggestionArray.push({
@@ -65,6 +65,7 @@ export function getData() {
                     })
                     console.log(SuggestionArray);
                     renderData();
+                    getData2();
                 })
                 .catch(err => console.error(err));
         })
