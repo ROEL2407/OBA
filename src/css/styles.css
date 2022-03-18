@@ -82,6 +82,14 @@ main > h2 {
     padding-bottom: 1em;
 }
 
+.book:nth-of-type(even) div {
+    width: 28vw;
+}
+
+.book:nth-of-type(even) div p:last-of-type {
+    word-break: break-all;
+}
+
 .book {
     display: flex;
     margin: 0em 0em 1em 1em;
