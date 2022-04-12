@@ -24,7 +24,7 @@ In this repository I've made a overview of cooking books from the OBA. My goal o
 With this application you can look through some of the cooking books OBA has to offer. You can get more information about the pieces and make your own perspectives on it. You can also search within these items.
 
 ## Example images
-<img src="https://github.com/ROEL2407/OBA/blob/main/wiki_images/voorbeeld.PNG">
+<img src="https://github.com/ROEL2407/OBA/blob/main/wiki_images/voorbeeld.PNG?raw=true">
 
 ## Installation
 Clone this repository to your own device:
